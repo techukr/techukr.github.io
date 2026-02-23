@@ -1,0 +1,86 @@
+baseURL = "https://techukr.github.io/"
+languageCode = "en-us"
+title = "MyNewsNow"
+theme = ""
+
+# Pagination
+paginate = 50
+
+# Taxonomy (categories)
+[taxonomies]
+  category = "categories"
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+# RSS settings
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "feed"
+
+# JSON output for Pagefind / client-side features
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+
+# Menu items (sidebar categories)
+[[menu.main]]
+  name = "All News"
+  url = "/news/"
+  weight = 1
+
+[[menu.main]]
+  name = "UK"
+  url = "/categories/uk/"
+  weight = 2
+
+[[menu.main]]
+  name = "World"
+  url = "/categories/world/"
+  weight = 3
+
+[[menu.main]]
+  name = "Politics"
+  url = "/categories/politics/"
+  weight = 4
+
+[[menu.main]]
+  name = "Business"
+  url = "/categories/business/"
+  weight = 5
+
+[[menu.main]]
+  name = "Technology"
+  url = "/categories/technology/"
+  weight = 6
+
+[[menu.main]]
+  name = "Science"
+  url = "/categories/science/"
+  weight = 7
+
+[[menu.main]]
+  name = "Sport"
+  url = "/categories/sport/"
+  weight = 8
+
+[[menu.main]]
+  name = "Entertainment"
+  url = "/categories/entertainment/"
+  weight = 9
+
+[[menu.main]]
+  name = "Health"
+  url = "/categories/health/"
+  weight = 10
+
+[[menu.main]]
+  name = "Environment"
+  url = "/categories/environment/"
+  weight = 11
+
+[params]
+  description = "Real-time news aggregator from 20+ sources"
+  adsenseId = "ca-pub-XXXXXXXXXXXXXXXX"
