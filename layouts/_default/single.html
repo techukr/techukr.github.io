@@ -1,5 +1,20 @@
 {{ define "main" }}
-<!-- Redirect to original article -->
-<meta http-equiv="refresh" content="0; url={{ .Params.url }}">
-<p>Redirecting to <a href="{{ .Params.url }}">{{ .Title }}</a>...</p>
+<div class="layout">
+  <article class="single-article">
+    <h1>{{ .Title }}</h1>
+    <div class="meta">
+      <span>{{ .Params.source_name }}</span> ·
+      <span>{{ .Params.time_ago }}</span>
+    </div>
+    <div class="cats">
+      {{ range .Params.categories }}
+      <a href="{{ "/categories/" | relURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+    <a href="{{ .Params.external_url }}" target="_blank" rel="noopener" class="read-btn">
+      Read Full Article →
+    </a>
+  </article>
+  {{ partial "sidebar.html" . }}
+</div>
 {{ end }}

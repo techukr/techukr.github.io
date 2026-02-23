@@ -1,44 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ .Title }} | {{ .Site.Title }}</title>
-  <meta name="description" content="{{ .Site.Params.description }}">
-  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "feed.xml" | absURL }}">
-  <!-- Pagefind CSS -->
-  <link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
-  <!-- Google AdSense -->
-  {{ if .Site.Params.adsenseId }}
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsenseId }}"
-    crossorigin="anonymous"></script>
-  {{ end }}
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
 </head>
 <body>
   {{ partial "header.html" . }}
-
-  <div class="container">
-    {{ partial "sidebar.html" . }}
-    <main class="feed">
-      {{ block "main" . }}{{ end }}
-    </main>
-  </div>
-
-  <!-- Pagefind JS -->
-  <script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
-  <script>
-    // Initialize Pagefind search
-    window.addEventListener('DOMContentLoaded', () => {
-      if (document.getElementById('search')) {
-        new PagefindUI({
-          element: "#search",
-          showSubResults: false,
-          showImages: false,
-          resetStyles: true
-        });
-      }
-    });
-  </script>
+  <main class="container">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
 </body>
 </html>

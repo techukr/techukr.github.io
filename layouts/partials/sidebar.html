@@ -1,15 +1,12 @@
-<nav class="sidebar">
-  <div class="sidebar-title">Topics</div>
-  {{ range .Site.Menus.main }}
-  <a href="{{ .URL }}" class="{{ if $.IsMenuCurrent "main" . }}active{{ end }}">
-    {{ .Name }}
-    {{ $cat := lower .Name }}
-    {{ with $.Site.GetPage (printf "/categories/%s" $cat) }}
-      <span class="count">{{ len .Pages }}</span>
+<aside class="sidebar">
+  <h3>Categories</h3>
+  <ul>
+    {{ range .Site.Taxonomies.categories.ByCount }}
+    <li>
+      <a href="{{ "/categories/" | relURL }}{{ .Page.Title | urlize }}/">
+        {{ .Page.Title }} <span>({{ .Count }})</span>
+      </a>
+    </li>
     {{ end }}
-  </a>
-  {{ end }}
-
-  <!-- Sidebar Ad Slot -->
-  {{ partial "ad-unit.html" (dict "format" "vertical" "slot" "SIDEBAR_SLOT_ID") }}
-</nav>
+  </ul>
+</aside>
