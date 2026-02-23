@@ -89,6 +89,17 @@ CATEGORY_KEYWORDS = {
 # ============================================================
 # HELPER FUNCTIONS
 # ============================================================
+import re
+
+def clean_url(url):
+    """Strip markdown link syntax [text](url) → plain url"""
+    if url is None:
+        return ""
+    # Match [anything](url) and extract just the url
+    match = re.match(r'^\[.*?\]\((https?://[^)]+)\)$', url.strip())
+    if match:
+        return match.group(1)
+    return url.strip()
 
 def load_seen_articles():
     """Load set of already-processed article hashes."""
@@ -177,7 +188,8 @@ def write_hugo_article(article: dict):
 title: "{article['title'].replace('"', "'")}"
 date: {article['date'].isoformat()}
 url: "{article['url']}"
-source: "{article['source_name']}"
+link: "{clean_url(article['url'])}"
+source: "{clean_url(article['source_url'])}"
 source_slug: "{article['source_slug']}"
 categories:
 {categories_yaml}
