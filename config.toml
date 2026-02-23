@@ -1,7 +1,7 @@
 baseURL = "https://techukr.github.io/"
 languageCode = "en-us"
 title = "MyNewsNow"
-theme = ""
+#theme = ""
 
 # Pagination
 paginate = 50
