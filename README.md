@@ -1,1 +1,0 @@
-# techukr.github.io
