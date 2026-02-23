@@ -1,0 +1,96 @@
+# data/feeds.yml
+sources:
+  # --- UK & World News ---
+  - name: "BBC News"
+    slug: "bbc-news"
+    url: "http://feeds.bbci.co.uk/news/rss.xml"
+    country: "UK"
+
+  - name: "BBC World"
+    slug: "bbc-world"
+    url: "http://feeds.bbci.co.uk/news/world/rss.xml"
+    country: "UK"
+
+  - name: "The Guardian"
+    slug: "the-guardian"
+    url: "https://www.theguardian.com/uk/rss"
+    country: "UK"
+
+  - name: "Reuters"
+    slug: "reuters"
+    url: "https://www.rss.reuters.com/news/topNews"
+    country: "US"
+
+  - name: "Al Jazeera"
+    slug: "al-jazeera"
+    url: "https://www.aljazeera.com/xml/rss/all.xml"
+    country: "QA"
+
+  - name: "Sky News"
+    slug: "sky-news"
+    url: "https://feeds.skynews.com/feeds/rss/home.xml"
+    country: "UK"
+
+  - name: "Wikinews"
+    slug: "wikinews"
+    url: "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=rss&categories=Published&namespace=0&count=30&stablepages=only"
+    country: "INT"
+
+  # --- Tech ---
+  - name: "TechCrunch"
+    slug: "techcrunch"
+    url: "https://techcrunch.com/feed/"
+    country: "US"
+
+  - name: "The Verge"
+    slug: "the-verge"
+    url: "https://www.theverge.com/rss/index.xml"
+    country: "US"
+
+  - name: "Ars Technica"
+    slug: "ars-technica"
+    url: "https://feeds.arstechnica.com/arstechnica/index"
+    country: "US"
+
+  - name: "Wired"
+    slug: "wired"
+    url: "https://www.wired.com/feed/rss"
+    country: "US"
+
+  - name: "Hacker News"
+    slug: "hacker-news"
+    url: "https://hnrss.org/frontpage"
+    country: "US"
+
+  # --- Sports ---
+  - name: "BBC Sport"
+    slug: "bbc-sport"
+    url: "http://feeds.bbci.co.uk/sport/rss.xml"
+    country: "UK"
+
+  - name: "ESPN"
+    slug: "espn"
+    url: "https://www.espn.com/espn/rss/news"
+    country: "US"
+
+  # --- Business ---
+  - name: "CNBC"
+    slug: "cnbc"
+    url: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+    country: "US"
+
+  - name: "MarketWatch"
+    slug: "marketwatch"
+    url: "https://feeds.marketwatch.com/marketwatch/topstories/"
+    country: "US"
+
+  # --- Science ---
+  - name: "NASA"
+    slug: "nasa"
+    url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    country: "US"
+
+  - name: "Nature"
+    slug: "nature"
+    url: "https://www.nature.com/nature.rss"
+    country: "UK"
