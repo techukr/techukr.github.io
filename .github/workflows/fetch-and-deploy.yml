@@ -73,6 +73,14 @@ jobs:
       # --- 6. Build with Hugo ---
       - name: Build site
         run: hugo --minify --baseURL "https://techukr.github.io/"
+      - name: Debug build output
+        run: |
+          echo "=== public/ contents ==="
+          ls -la public/ || echo "❌ public/ does not exist!"
+          echo "=== index.html preview ==="
+          head -30 public/index.html || echo "❌ No index.html!"
+          echo "=== Total files ==="
+          find public/ -type f | wc -l
 
       # --- 7. Run Pagefind indexing ---
       - name: Index with Pagefind
