@@ -70,7 +70,7 @@ jobs:
 
       # --- 6. Build with Hugo ---
       - name: Build site
-        run: hugo --minify --baseURL "https://YOUR-USERNAME.github.io/mynewsnow/"
+        run: hugo --minify --baseURL "https://techukr.github.io/"
 
       # --- 7. Run Pagefind indexing ---
       - name: Index with Pagefind
