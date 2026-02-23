@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="feed-header">
+  <h1>{{ .Title }}</h1>
+  <span class="article-count">{{ len .Pages }} articles</span>
+</div>
+
+<!-- Top Ad -->
+{{ partial "ad-unit.html" (dict "format" "horizontal" "slot" "TOP_SLOT_ID") }}
+
+{{ range $index, $article := .Pages.ByDate.Reverse }}
+<article class="article" data-pagefind-body>
+  <span class="bullet">●</span>
+  <div class="article-content">
+    <a href="{{ .Params.url }}" target="_blank" rel="noopener" class="article-link">
+      {{ .Title }}
+    </a>
+    <span class="meta">
+      <span class="source">{{ .Params.source }}</span>
+      <span class="time">{{ .Params.time_ago }}</span>
+    </span>
+  </div>
+</article>
+
+{{ if and (gt $index 0) (eq (mod $index 20) 0) }}
+  {{ partial "ad-unit.html" (dict "format" "infeed" "slot" "INFEED_SLOT_ID") }}
+{{ end }}
+{{ end }}
+{{ end }}

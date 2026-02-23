@@ -1,0 +1,5 @@
+{{ define "main" }}
+<!-- Redirect to original article -->
+<meta http-equiv="refresh" content="0; url={{ .Params.url }}">
+<p>Redirecting to <a href="{{ .Params.url }}">{{ .Title }}</a>...</p>
+{{ end }}

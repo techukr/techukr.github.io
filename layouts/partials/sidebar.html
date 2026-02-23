@@ -1,0 +1,15 @@
+<nav class="sidebar">
+  <div class="sidebar-title">Topics</div>
+  {{ range .Site.Menus.main }}
+  <a href="{{ .URL }}" class="{{ if $.IsMenuCurrent "main" . }}active{{ end }}">
+    {{ .Name }}
+    {{ $cat := lower .Name }}
+    {{ with $.Site.GetPage (printf "/categories/%s" $cat) }}
+      <span class="count">{{ len .Pages }}</span>
+    {{ end }}
+  </a>
+  {{ end }}
+
+  <!-- Sidebar Ad Slot -->
+  {{ partial "ad-unit.html" (dict "format" "vertical" "slot" "SIDEBAR_SLOT_ID") }}
+</nav>
