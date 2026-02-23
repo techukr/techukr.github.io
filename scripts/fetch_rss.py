@@ -22,8 +22,8 @@ from slugify import slugify
 CONTENT_DIR = Path("content/news")
 DATA_DIR = Path("data")
 SEEN_FILE = DATA_DIR / "seen_articles.json"
-MAX_ARTICLE_AGE_DAYS = 3  # Remove articles older than this
-MAX_ARTICLES_PER_RUN = 200  # Safety cap
+MAX_ARTICLE_AGE_DAYS = 3
+MAX_ARTICLES_PER_RUN = 200
 
 # ============================================================
 # KEYWORD → CATEGORY MAPPING
@@ -89,17 +89,16 @@ CATEGORY_KEYWORDS = {
 # ============================================================
 # HELPER FUNCTIONS
 # ============================================================
-import re
 
 def clean_url(url):
-    """Strip markdown link syntax [text](url) → plain url"""
+    """Strip markdown link syntax [text](url) → plain url."""
     if url is None:
         return ""
-    # Match [anything](url) and extract just the url
     match = re.match(r'^\[.*?\]\((https?://[^)]+)\)$', url.strip())
     if match:
         return match.group(1)
     return url.strip()
+
 
 def load_seen_articles():
     """Load set of already-processed article hashes."""
@@ -114,7 +113,10 @@ def save_seen_articles(seen: set):
     """Persist seen article hashes to JSON."""
     SEEN_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(SEEN_FILE, "w") as f:
-        json.dump({"seen": list(seen), "updated": datetime.now(timezone.utc).isoformat()}, f)
+        json.dump(
+            {"seen": list(seen), "updated": datetime.now(timezone.utc).isoformat()},
+            f
+        )
 
 
 def article_hash(url: str) -> str:
@@ -152,9 +154,11 @@ def time_ago(dt: datetime) -> str:
 
 
 def clean_title(title: str) -> str:
-    """Remove HTML tags and excess whitespace from title."""
+    """Remove HTML tags, excess whitespace, and escape quotes from title."""
     clean = re.sub(r"<[^>]+>", "", title)
     clean = re.sub(r"\s+", " ", clean).strip()
+    # Escape double quotes to prevent YAML frontmatter breakage
+    clean = clean.replace('"', "'")
     return clean
 
 
@@ -185,16 +189,17 @@ def write_hugo_article(article: dict):
     categories_yaml = "\n".join(f'  - "{c}"' for c in article["categories"])
 
     frontmatter = f"""---
-title: "{article['title'].replace('"', "'")}"
+title: "{article['title']}"
 date: {article['date'].isoformat()}
-url: "{article['url']}"
-link: "{clean_url(article['url'])}"
-source: "{clean_url(article['source_url'])}"
-source_slug: "{article['source_slug']}"
+url: "{clean_url(article.get('url', ''))}"
+link: "{clean_url(article.get('url', ''))}"
+source: "{clean_url(article.get('source_url', ''))}"
+source_name: "{article.get('source_name', '')}"
+source_slug: "{article.get('source_slug', '')}"
 categories:
 {categories_yaml}
-time_ago: "{article['time_ago']}"
-article_hash: "{article['hash']}"
+time_ago: "{article.get('time_ago', '')}"
+article_hash: "{article.get('hash', '')}"
 ---
 """
     filepath.parent.mkdir(parents=True, exist_ok=True)
@@ -209,7 +214,6 @@ article_hash: "{article['hash']}"
 # ============================================================
 
 def main():
-    # Load config
     with open(DATA_DIR / "feeds.yml", "r") as f:
         config = yaml.safe_load(f)
 
@@ -223,7 +227,7 @@ def main():
     for source in sources:
         try:
             feed = feedparser.parse(source["url"])
-            entries = feed.entries[:30]  # Cap per source
+            entries = feed.entries[:30]
             print(f"  ✅ {source['name']}: {len(entries)} entries")
 
             for entry in entries:
@@ -238,7 +242,6 @@ def main():
                 title = clean_title(entry.get("title", "No Title"))
                 pub_date = parse_date(entry)
 
-                # Skip articles older than MAX_ARTICLE_AGE_DAYS
                 age = datetime.now(timezone.utc) - pub_date
                 if age.days > MAX_ARTICLE_AGE_DAYS:
                     continue
@@ -250,6 +253,7 @@ def main():
                     "url": url,
                     "date": pub_date,
                     "source_name": source["name"],
+                    "source_url": source.get("homepage", source["url"]),  # ← FIXED
                     "source_slug": source["slug"],
                     "categories": categories,
                     "time_ago": time_ago(pub_date),
@@ -270,17 +274,14 @@ def main():
         if new_count >= MAX_ARTICLES_PER_RUN:
             break
 
-    # Write Hugo markdown files
     for article in all_articles:
         write_hugo_article(article)
 
-    # Save seen articles (keep last 10000 to prevent unbounded growth)
     seen_list = list(seen)
     if len(seen_list) > 10000:
         seen_list = seen_list[-10000:]
     save_seen_articles(set(seen_list))
 
-    # Clean up old articles from content/news/
     cleanup_old_articles()
 
     print(f"\n🎉 Done! {new_count} new articles added.")
@@ -294,7 +295,6 @@ def cleanup_old_articles():
 
     if CONTENT_DIR.exists():
         for f in CONTENT_DIR.glob("*.md"):
-            # Filename starts with date: 2026-02-23-slug.md
             date_part = f.name[:10]
             if date_part < cutoff_str:
                 f.unlink()
