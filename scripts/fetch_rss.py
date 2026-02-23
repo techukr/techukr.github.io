@@ -178,7 +178,6 @@ def parse_date(entry) -> datetime:
 # ============================================================
 # HUGO MARKDOWN GENERATOR
 # ============================================================
-
 def write_hugo_article(article: dict):
     """Write a single article as a Hugo markdown file."""
     slug = slugify(article["title"][:80])
@@ -191,8 +190,7 @@ def write_hugo_article(article: dict):
     frontmatter = f"""---
 title: "{article['title']}"
 date: {article['date'].isoformat()}
-url: "{clean_url(article.get('url', ''))}"
-link: "{clean_url(article.get('url', ''))}"
+external_url: "{clean_url(article.get('url', ''))}"
 source: "{clean_url(article.get('source_url', ''))}"
 source_name: "{article.get('source_name', '')}"
 source_slug: "{article.get('source_slug', '')}"
@@ -207,7 +205,6 @@ article_hash: "{article.get('hash', '')}"
         f.write(frontmatter)
 
     return filename
-
 
 # ============================================================
 # MAIN: FETCH ALL FEEDS
