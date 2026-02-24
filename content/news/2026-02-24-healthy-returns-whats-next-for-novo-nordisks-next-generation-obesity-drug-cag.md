@@ -1,0 +1,13 @@
+---
+title: "Healthy Returns: What’s next for Novo Nordisk’s next-generation obesity drug CagriSema after trial miss"
+date: 2026-02-24T20:38:14+00:00
+external_url: "https://www.cnbc.com/2026/02/24/healthy-returns-whats-next-for-novo-nordisks-obesity-drug-cagrisema.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "science"
+  - "health"
+time_ago: "10m"
+article_hash: "4829359270a6"
+---
