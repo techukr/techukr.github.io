@@ -1,12 +1,12 @@
 ---
 title: "Soham murderer Ian Huntley seriously injured in prison attack"
-date: 2026-02-26T13:24:29+00:00
-external_url: "https://www.bbc.com/news/articles/c1mjx1grj3yo?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-02-26T14:01:02+00:00
+external_url: "https://www.theguardian.com/uk-news/2026/feb/26/ian-huntley-seriously-injured-attack-hospital-hmp-frankland-county-durham"
+source: "https://www.theguardian.com/uk/rss"
+source_name: "The Guardian"
+source_slug: "the-guardian"
 categories:
   - "general"
-time_ago: "25m"
-article_hash: "772d0a18ce6d"
+time_ago: "50m"
+article_hash: "34806a38bf9e"
 ---
