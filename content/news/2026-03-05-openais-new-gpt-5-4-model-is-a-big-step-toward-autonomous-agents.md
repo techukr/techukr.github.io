@@ -1,0 +1,13 @@
+---
+title: "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents"
+date: 2026-03-05T18:00:00+00:00
+external_url: "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
+source: "https://www.theverge.com/rss/index.xml"
+source_name: "The Verge"
+source_slug: "the-verge"
+categories:
+  - "world"
+  - "technology"
+time_ago: "27m"
+article_hash: "365cadf028a4"
+---

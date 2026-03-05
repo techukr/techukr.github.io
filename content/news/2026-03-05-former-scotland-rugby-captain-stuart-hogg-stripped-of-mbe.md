@@ -1,13 +1,13 @@
 ---
 title: "Former Scotland rugby captain Stuart Hogg stripped of MBE"
-date: 2026-03-05T15:32:13+00:00
-external_url: "https://www.bbc.com/news/articles/ce8ww783d99o?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-03-05T16:07:00+00:00
+external_url: "https://news.sky.com/story/former-scotland-rugby-union-captain-stuart-hogg-stripped-of-mbe-after-domestic-abuse-conviction-13515746"
+source: "https://feeds.skynews.com/feeds/rss/home.xml"
+source_name: "Sky News"
+source_slug: "sky-news"
 categories:
   - "uk"
   - "sport"
-time_ago: "39m"
-article_hash: "5de87e7ad852"
+time_ago: "2h"
+article_hash: "66a55740cd82"
 ---
