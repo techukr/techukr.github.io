@@ -1,0 +1,12 @@
+---
+title: "I've studied over 200 kids—parents who raise emotionally intelligent kids regularly ask their children 9 questions"
+date: 2026-03-08T13:43:00+00:00
+external_url: "https://www.cnbc.com/2026/03/08/psychologist-parents-who-ask-these-9-questions-raise-emotionally-intelligent-kids.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "health"
+time_ago: "45m"
+article_hash: "43406b28fddd"
+---
