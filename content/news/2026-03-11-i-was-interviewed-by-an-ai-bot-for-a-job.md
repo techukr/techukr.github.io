@@ -1,12 +1,12 @@
 ---
-title: "I was interviewed by an AI bot for a job"
-date: 2026-03-11T14:00:00+00:00
-external_url: "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
-source: "https://www.theverge.com/rss/index.xml"
-source_name: "The Verge"
-source_slug: "the-verge"
+title: "I Was Interviewed by an AI Bot for a Job"
+date: 2026-03-11T18:17:30+00:00
+external_url: "https://schwarztech.net/snippets/i-was-interviewed-by-an-ai-bot-for-a-job"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
 categories:
   - "technology"
-time_ago: "27m"
-article_hash: "d2421463ab73"
+time_ago: "1h"
+article_hash: "975de9a8e018"
 ---
