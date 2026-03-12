@@ -1,0 +1,12 @@
+---
+title: "U.S. averts WBC disaster, advances with Italy win"
+date: 2026-03-12T03:22:33+00:00
+external_url: "https://www.espn.com/mlb/story/_/id/48179655/italy-beats-mexico-world-baseball-classic-puts-team-usa-quarterfinals"
+source: "https://www.espn.com/espn/rss/news"
+source_name: "ESPN"
+source_slug: "espn"
+categories:
+  - "general"
+time_ago: "now"
+article_hash: "a98a008b1686"
+---
