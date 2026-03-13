@@ -7,6 +7,6 @@ source_name: "BBC World"
 source_slug: "bbc-world"
 categories:
   - "politics"
-time_ago: "2h"
+time_ago: "1d"
 article_hash: "e6aed47758ca"
 ---

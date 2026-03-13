@@ -7,6 +7,6 @@ source_name: "Hacker News"
 source_slug: "hacker-news"
 categories:
   - "health"
-time_ago: "1h"
+time_ago: "12h"
 article_hash: "547e6107a5bd"
 ---
