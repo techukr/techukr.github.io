@@ -7,6 +7,6 @@ source_name: "Hacker News"
 source_slug: "hacker-news"
 categories:
   - "entertainment"
-time_ago: "2h"
+time_ago: "4h"
 article_hash: "174a18999803"
 ---
