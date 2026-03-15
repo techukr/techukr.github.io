@@ -7,6 +7,6 @@ source_name: "Ars Technica"
 source_slug: "ars-technica"
 categories:
   - "entertainment"
-time_ago: "48m"
+time_ago: "2d"
 article_hash: "f91b0d83bad7"
 ---
