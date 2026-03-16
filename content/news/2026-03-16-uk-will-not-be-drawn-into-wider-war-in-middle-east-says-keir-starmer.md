@@ -9,6 +9,6 @@ categories:
   - "uk"
   - "world"
   - "politics"
-time_ago: "29m"
+time_ago: "4h"
 article_hash: "b9640bc82f25"
 ---
