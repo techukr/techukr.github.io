@@ -8,6 +8,6 @@ source_slug: "the-verge"
 categories:
   - "technology"
   - "health"
-time_ago: "36m"
+time_ago: "14h"
 article_hash: "b46ab9de8c0b"
 ---
