@@ -1,13 +1,13 @@
 ---
 title: "Two men charged with allegedly spying on London Jewish community for Iran"
-date: 2026-03-18T20:53:56+00:00
-external_url: "https://www.theguardian.com/uk-news/2026/mar/18/two-men-charged-with-allegedly-spying-on-london-jewish-community-for-iran"
-source: "https://www.theguardian.com/uk/rss"
-source_name: "The Guardian"
-source_slug: "the-guardian"
+date: 2026-03-18T21:58:34+00:00
+external_url: "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
 categories:
   - "uk"
   - "world"
-time_ago: "10m"
-article_hash: "372c2d33427a"
+time_ago: "now"
+article_hash: "6f01ad2311a0"
 ---
