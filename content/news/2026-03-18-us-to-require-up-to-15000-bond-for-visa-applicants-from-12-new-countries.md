@@ -1,0 +1,12 @@
+---
+title: "US to require up to $15,000 bond for visa applicants from 12 new countries"
+date: 2026-03-18T18:56:03+00:00
+external_url: "https://www.aljazeera.com/news/2026/3/18/us-to-require-up-to-15000-bond-for-visa-applicants-from-12-new-countries?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+time_ago: "33m"
+article_hash: "df590b82fbc7"
+---
