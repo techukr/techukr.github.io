@@ -8,6 +8,6 @@ source_slug: "bbc-news"
 categories:
   - "politics"
   - "technology"
-time_ago: "1h"
+time_ago: "4h"
 article_hash: "684f9c028dba"
 ---
