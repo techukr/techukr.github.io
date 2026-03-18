@@ -7,6 +7,6 @@ source_name: "BBC News"
 source_slug: "bbc-news"
 categories:
   - "technology"
-time_ago: "2h"
+time_ago: "7h"
 article_hash: "8873293ecd3b"
 ---
