@@ -7,6 +7,6 @@ source_name: "The Verge"
 source_slug: "the-verge"
 categories:
   - "politics"
-time_ago: "50m"
+time_ago: "5h"
 article_hash: "d431bfdd06bd"
 ---

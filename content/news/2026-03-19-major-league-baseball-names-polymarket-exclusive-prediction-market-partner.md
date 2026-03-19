@@ -1,0 +1,12 @@
+---
+title: "Major League Baseball names Polymarket exclusive prediction market partner"
+date: 2026-03-19T14:15:41+00:00
+external_url: "https://www.cnbc.com/2026/03/19/mlb-polymarket-prediction-markets.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "business"
+time_ago: "13m"
+article_hash: "5cfea783a260"
+---
