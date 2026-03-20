@@ -9,6 +9,6 @@ categories:
   - "world"
   - "politics"
   - "business"
-time_ago: "2m"
+time_ago: "19h"
 article_hash: "0a068281759c"
 ---
