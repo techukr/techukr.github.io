@@ -1,0 +1,12 @@
+---
+title: "Will Russian oil be the biggest winner in the US-Israel war on Iran?"
+date: 2026-03-20T14:48:43+00:00
+external_url: "https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+time_ago: "23m"
+article_hash: "e12bd0971563"
+---
