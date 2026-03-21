@@ -7,6 +7,6 @@ source_name: "BBC Sport"
 source_slug: "bbc-sport"
 categories:
   - "health"
-time_ago: "2h"
+time_ago: "8h"
 article_hash: "0ed1716fd6ab"
 ---
