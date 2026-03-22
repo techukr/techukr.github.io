@@ -8,6 +8,6 @@ source_slug: "al-jazeera"
 categories:
   - "uk"
   - "world"
-time_ago: "46m"
+time_ago: "6h"
 article_hash: "b6579ef4bd7e"
 ---
