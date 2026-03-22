@@ -9,6 +9,6 @@ categories:
   - "world"
   - "politics"
   - "technology"
-time_ago: "50m"
+time_ago: "1d"
 article_hash: "4f64cd05abcb"
 ---
