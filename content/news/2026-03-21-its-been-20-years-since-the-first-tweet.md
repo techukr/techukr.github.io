@@ -7,6 +7,6 @@ source_name: "TechCrunch"
 source_slug: "techcrunch"
 categories:
   - "general"
-time_ago: "now"
+time_ago: "1d"
 article_hash: "9f69b493dcf2"
 ---
