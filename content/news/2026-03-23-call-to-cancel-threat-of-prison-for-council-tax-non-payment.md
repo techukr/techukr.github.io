@@ -1,0 +1,12 @@
+---
+title: "Call to cancel threat of prison for council tax non-payment"
+date: 2026-03-23T00:02:52+00:00
+external_url: "https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "2h"
+article_hash: "9b677e2227f7"
+---
