@@ -7,6 +7,6 @@ source_name: "Wikinews"
 source_slug: "wikinews"
 categories:
   - "entertainment"
-time_ago: "40m"
+time_ago: "3d"
 article_hash: "58b51a380f12"
 ---

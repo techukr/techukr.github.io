@@ -7,6 +7,6 @@ source_name: "Sky News"
 source_slug: "sky-news"
 categories:
   - "general"
-time_ago: "19m"
+time_ago: "1h"
 article_hash: "19a4aef39b5b"
 ---
