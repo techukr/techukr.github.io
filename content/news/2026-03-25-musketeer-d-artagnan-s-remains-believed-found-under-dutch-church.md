@@ -1,12 +1,12 @@
 ---
 title: "Musketeer d'Artagnan's remains believed found under Dutch church"
-date: 2026-03-25T14:30:39+00:00
-external_url: "https://www.bbc.com/news/articles/cm2rew2dgzzo?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-03-25T15:46:44+00:00
+external_url: "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
 categories:
   - "general"
 time_ago: "1h"
-article_hash: "f8e4d94e2c4f"
+article_hash: "72ce153a09f1"
 ---
