@@ -7,6 +7,6 @@ source_name: "The Verge"
 source_slug: "the-verge"
 categories:
   - "sport"
-time_ago: "30m"
+time_ago: "4h"
 article_hash: "d1b01e70d3c9"
 ---
