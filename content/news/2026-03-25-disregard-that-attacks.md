@@ -1,0 +1,12 @@
+---
+title: "'Disregard That' Attacks"
+date: 2026-03-25T23:11:34+00:00
+external_url: "https://calpaterson.com/disregard.html"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
+categories:
+  - "general"
+time_ago: "3h"
+article_hash: "260786761cae"
+---
