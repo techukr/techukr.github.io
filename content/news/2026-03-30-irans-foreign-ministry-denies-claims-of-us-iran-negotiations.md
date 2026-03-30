@@ -1,0 +1,12 @@
+---
+title: "Iran’s Foreign Ministry denies claims of US-Iran negotiations"
+date: 2026-03-30T12:38:37+00:00
+external_url: "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-denies-claims-of-us-iran-negotiations?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+time_ago: "49m"
+article_hash: "9d2ddfe62052"
+---
