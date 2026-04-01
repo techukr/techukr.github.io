@@ -8,6 +8,6 @@ source_slug: "marketwatch"
 categories:
   - "world"
   - "politics"
-time_ago: "26m"
+time_ago: "1h"
 article_hash: "a823d425a389"
 ---
