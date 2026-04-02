@@ -1,13 +1,13 @@
 ---
-title: "Trump fires Attorney General Pam Bondi"
-date: 2026-04-02T17:22:37+00:00
-external_url: "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html"
-source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
-source_name: "CNBC"
-source_slug: "cnbc"
+title: "Trump fires attorney general Pam Bondi."
+date: 2026-04-02T19:08:27+00:00
+external_url: "https://www.theverge.com/policy/905961/pam-bondi-fired"
+source: "https://www.theverge.com/rss/index.xml"
+source_name: "The Verge"
+source_slug: "the-verge"
 categories:
   - "politics"
   - "science"
-time_ago: "1m"
-article_hash: "070455d9cebf"
+time_ago: "21m"
+article_hash: "57f416631a42"
 ---
