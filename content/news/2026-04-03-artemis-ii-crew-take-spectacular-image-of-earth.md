@@ -1,12 +1,12 @@
 ---
 title: "Artemis II crew take 'spectacular' image of Earth"
-date: 2026-04-03T18:25:25+00:00
-external_url: "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-04-03T19:35:02+00:00
+external_url: "https://www.bbc.com/news/articles/ce8jzr423p9o"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
 categories:
   - "general"
-time_ago: "27m"
-article_hash: "8da0ed5eaec8"
+time_ago: "1h"
+article_hash: "c1f9c014ea99"
 ---
