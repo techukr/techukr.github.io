@@ -7,6 +7,6 @@ source_name: "TechCrunch"
 source_slug: "techcrunch"
 categories:
   - "politics"
-time_ago: "18m"
+time_ago: "1d"
 article_hash: "6dd22ac30e6b"
 ---
