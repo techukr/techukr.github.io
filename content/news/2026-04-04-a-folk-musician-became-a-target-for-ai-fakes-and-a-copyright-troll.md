@@ -8,6 +8,6 @@ source_slug: "the-verge"
 categories:
   - "technology"
   - "entertainment"
-time_ago: "56m"
+time_ago: "1d"
 article_hash: "1219c4bc9223"
 ---
