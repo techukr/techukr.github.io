@@ -7,6 +7,6 @@ source_name: "CNBC"
 source_slug: "cnbc"
 categories:
   - "health"
-time_ago: "53m"
+time_ago: "13h"
 article_hash: "94496d6f693c"
 ---
