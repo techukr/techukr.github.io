@@ -1,0 +1,14 @@
+---
+title: "Asia-Pacific markets rise as investors assess Trump's mixed messaging on Iran war"
+date: 2026-04-07T01:39:18+00:00
+external_url: "https://www.cnbc.com/2026/04/07/asia-pacific-markets-toda-kospi-nikkei225-nifty50.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "world"
+  - "politics"
+  - "business"
+time_ago: "1h"
+article_hash: "dd90eace210f"
+---
