@@ -9,6 +9,6 @@ categories:
   - "technology"
   - "science"
   - "health"
-time_ago: "15h"
+time_ago: "21h"
 article_hash: "bd920decd831"
 ---
