@@ -1,0 +1,12 @@
+---
+title: "‘US-Israel playing Russian roulette with security of the region’"
+date: 2026-04-07T10:15:05+00:00
+external_url: "https://www.aljazeera.com/video/quotable/2026/4/7/us-israel-playing-russian-roulette-with-security-of-the?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+time_ago: "44m"
+article_hash: "9dd388f5270d"
+---
