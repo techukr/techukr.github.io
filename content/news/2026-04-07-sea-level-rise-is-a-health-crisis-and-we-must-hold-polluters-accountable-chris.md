@@ -7,6 +7,6 @@ source_name: "The Guardian"
 source_slug: "the-guardian"
 categories:
   - "health"
-time_ago: "37m"
+time_ago: "11h"
 article_hash: "498efd2c665f"
 ---
