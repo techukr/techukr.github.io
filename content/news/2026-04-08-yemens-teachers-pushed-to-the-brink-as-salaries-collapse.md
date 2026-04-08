@@ -1,0 +1,12 @@
+---
+title: "Yemen’s teachers pushed to the brink as salaries collapse"
+date: 2026-04-08T07:06:06+00:00
+external_url: "https://www.aljazeera.com/features/2026/4/8/yemens-teachers-pushed-to-the-brink-as-salaries-collapse?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "19m"
+article_hash: "30615e394be9"
+---
