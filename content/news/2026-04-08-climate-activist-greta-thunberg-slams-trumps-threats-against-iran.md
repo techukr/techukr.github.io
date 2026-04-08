@@ -9,6 +9,6 @@ categories:
   - "world"
   - "politics"
   - "science"
-time_ago: "1h"
+time_ago: "3h"
 article_hash: "dee79504c34b"
 ---
