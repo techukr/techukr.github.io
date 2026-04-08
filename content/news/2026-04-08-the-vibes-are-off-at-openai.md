@@ -7,6 +7,6 @@ source_name: "The Verge"
 source_slug: "the-verge"
 categories:
   - "technology"
-time_ago: "1h"
+time_ago: "7h"
 article_hash: "cdede6c3239c"
 ---
