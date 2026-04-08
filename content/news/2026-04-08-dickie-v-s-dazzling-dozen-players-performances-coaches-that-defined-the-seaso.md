@@ -1,0 +1,12 @@
+---
+title: "Dickie V's Dazzling Dozen: Players, performances, coaches that defined the season"
+date: 2026-04-08T17:12:33+00:00
+external_url: "https://www.espn.com/mens-college-basketball/story/_/id/48422021/dick-vitale-dazzling-dozen-cameron-boozer-freshmen-awards-2026dick-vitale-dazzling-dozen-cameron-boozer-freshmen-awards-2026"
+source: "https://www.espn.com/espn/rss/news"
+source_name: "ESPN"
+source_slug: "espn"
+categories:
+  - "sport"
+time_ago: "28m"
+article_hash: "a34b8fd7cecc"
+---
