@@ -1,6 +1,6 @@
 ---
 title: "Cal's Pippen back to B1G, commits to Ohio State"
-date: 2026-04-10T18:47:02+00:00
+date: 2026-04-10T19:24:39+00:00
 external_url: "https://www.espn.com/mens-college-basketball/story/_/id/48448767/cal-guard-justin-pippen-transferring-ohio-state"
 source: "https://www.espn.com/espn/rss/news"
 source_name: "ESPN"
