@@ -1,12 +1,12 @@
 ---
 title: "Hip-hop pioneer, Afrika Bambaataa, dies aged 68"
-date: 2026-04-10T04:17:28+00:00
-external_url: "https://www.bbc.co.uk/news/articles/c2evppm30p7o"
-source: "https://hnrss.org/frontpage"
-source_name: "Hacker News"
-source_slug: "hacker-news"
+date: 2026-04-10T00:50:21+00:00
+external_url: "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/world/rss.xml"
+source_name: "BBC World"
+source_slug: "bbc-world"
 categories:
   - "general"
-time_ago: "1h"
-article_hash: "488fe097e889"
+time_ago: "17h"
+article_hash: "f75b99a7c012"
 ---
