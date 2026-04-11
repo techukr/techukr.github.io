@@ -1,13 +1,13 @@
 ---
 title: "Chimpanzees in Uganda locked in vicious 'civil war', say researchers"
-date: 2026-04-10T19:10:22+00:00
-external_url: "https://www.bbc.com/news/articles/cr71lkzv49po"
-source: "https://hnrss.org/frontpage"
-source_name: "Hacker News"
-source_slug: "hacker-news"
+date: 2026-04-10T16:52:55+00:00
+external_url: "https://www.bbc.com/news/articles/cr71lkzv49po?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/world/rss.xml"
+source_name: "BBC World"
+source_slug: "bbc-world"
 categories:
   - "world"
   - "science"
-time_ago: "39m"
-article_hash: "d6c483356682"
+time_ago: "18h"
+article_hash: "fb7ef9daad79"
 ---
