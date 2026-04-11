@@ -9,6 +9,6 @@ categories:
   - "world"
   - "business"
   - "sport"
-time_ago: "34m"
+time_ago: "8h"
 article_hash: "b37bab2d9fe4"
 ---
