@@ -1,12 +1,12 @@
 ---
 title: "Legendary Bollywood singer Asha Bhosle dies aged 92"
-date: 2026-04-12T08:24:01+00:00
-external_url: "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-04-12T09:51:00+00:00
+external_url: "https://news.sky.com/story/legendary-bollywood-singer-asha-bhosle-dies-aged-92-13530895"
+source: "https://feeds.skynews.com/feeds/rss/home.xml"
+source_name: "Sky News"
+source_slug: "sky-news"
 categories:
   - "general"
-time_ago: "1h"
-article_hash: "9f56e685a03e"
+time_ago: "3h"
+article_hash: "24952597d3c3"
 ---
