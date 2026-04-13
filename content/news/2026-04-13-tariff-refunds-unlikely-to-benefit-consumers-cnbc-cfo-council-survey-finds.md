@@ -1,0 +1,12 @@
+---
+title: "Tariff refunds unlikely to benefit consumers, CNBC CFO Council survey finds"
+date: 2026-04-13T15:48:51+00:00
+external_url: "https://www.cnbc.com/2026/04/13/tariff-refunds-unlikely-to-benefit-consumers.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "general"
+time_ago: "53m"
+article_hash: "3517eee04587"
+---
