@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "uk"
   - "world"
-time_ago: "1h"
+time_ago: "22h"
 article_hash: "7eda24814a52"
 ---
