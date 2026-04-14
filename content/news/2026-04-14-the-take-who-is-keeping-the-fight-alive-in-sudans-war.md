@@ -1,0 +1,12 @@
+---
+title: "The Take: Who is keeping the fight alive in Sudan’s war?"
+date: 2026-04-14T22:59:50+00:00
+external_url: "https://www.aljazeera.com/video/the-take-2/2026/4/14/aje-onl-sdn_anniversary26_av_v2-140426?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "health"
+time_ago: "23m"
+article_hash: "7765e1ce8ede"
+---
