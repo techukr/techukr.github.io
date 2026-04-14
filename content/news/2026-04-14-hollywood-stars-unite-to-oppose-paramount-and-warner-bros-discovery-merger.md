@@ -8,6 +8,6 @@ source_slug: "bbc-news"
 categories:
   - "business"
   - "science"
-time_ago: "2h"
+time_ago: "4h"
 article_hash: "fd8b28496f23"
 ---
