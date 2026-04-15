@@ -7,6 +7,6 @@ source_name: "Wikinews"
 source_slug: "wikinews"
 categories:
   - "world"
-time_ago: "9m"
+time_ago: "3h"
 article_hash: "8976c32867d3"
 ---

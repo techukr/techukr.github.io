@@ -1,0 +1,12 @@
+---
+title: "Why has Italy’s Giorgia Meloni suspended a defence pact with Israel?"
+date: 2026-04-15T16:10:11+00:00
+external_url: "https://www.aljazeera.com/news/2026/4/15/why-has-italys-giorgia-meloni-suspended-a-defence-pact-with-israel?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "58m"
+article_hash: "370c73685b0b"
+---
