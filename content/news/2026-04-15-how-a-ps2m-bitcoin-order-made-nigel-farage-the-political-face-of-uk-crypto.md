@@ -9,6 +9,6 @@ categories:
   - "uk"
   - "politics"
   - "business"
-time_ago: "13m"
+time_ago: "1h"
 article_hash: "17e1c2c86d43"
 ---
