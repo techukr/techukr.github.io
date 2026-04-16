@@ -1,0 +1,12 @@
+---
+title: "Hong Kong to announce tax break to lure global commodity traders"
+date: 2026-04-16T08:13:58+00:00
+external_url: "https://www.cnbc.com/2026/04/16/hong-kong-to-announce-tax-break-to-lure-global-commodity-traders.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "business"
+time_ago: "1h"
+article_hash: "5301479b18a2"
+---
