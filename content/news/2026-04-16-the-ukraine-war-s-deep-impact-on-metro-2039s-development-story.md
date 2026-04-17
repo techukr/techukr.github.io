@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "uk"
   - "world"
-time_ago: "2h"
+time_ago: "1d"
 article_hash: "f9b161ff6a36"
 ---
