@@ -8,6 +8,6 @@ source_slug: "sky-news"
 categories:
   - "uk"
   - "sport"
-time_ago: "2h"
+time_ago: "12h"
 article_hash: "29040d63d308"
 ---
