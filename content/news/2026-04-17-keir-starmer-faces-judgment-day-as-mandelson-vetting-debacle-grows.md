@@ -7,6 +7,6 @@ source_name: "The Guardian"
 source_slug: "the-guardian"
 categories:
   - "politics"
-time_ago: "49m"
+time_ago: "11h"
 article_hash: "c80732835ae8"
 ---

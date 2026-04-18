@@ -7,6 +7,6 @@ source_name: "Al Jazeera"
 source_slug: "al-jazeera"
 categories:
   - "politics"
-time_ago: "1h"
+time_ago: "7h"
 article_hash: "00eb43c59c4f"
 ---
