@@ -1,0 +1,12 @@
+---
+title: "Top Wall Street analysts are bullish on these 3 stocks for the long haul"
+date: 2026-04-19T12:26:04+00:00
+external_url: "https://www.cnbc.com/2026/04/19/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "business"
+time_ago: "42m"
+article_hash: "4840d6dfcfbb"
+---
