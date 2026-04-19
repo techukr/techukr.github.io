@@ -7,6 +7,6 @@ source_name: "The Guardian"
 source_slug: "the-guardian"
 categories:
   - "general"
-time_ago: "42m"
+time_ago: "10h"
 article_hash: "8743cbeaa8a0"
 ---
