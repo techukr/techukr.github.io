@@ -9,6 +9,6 @@ categories:
   - "world"
   - "politics"
   - "health"
-time_ago: "19m"
+time_ago: "2d"
 article_hash: "ae817d87c1d6"
 ---
