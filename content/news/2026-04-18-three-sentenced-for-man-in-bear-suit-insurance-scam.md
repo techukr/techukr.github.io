@@ -7,6 +7,6 @@ source_name: "BBC World"
 source_slug: "bbc-world"
 categories:
   - "general"
-time_ago: "13h"
+time_ago: "1d"
 article_hash: "c79e99d049e6"
 ---
