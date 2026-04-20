@@ -9,6 +9,6 @@ categories:
   - "uk"
   - "world"
   - "sport"
-time_ago: "54m"
+time_ago: "1h"
 article_hash: "5eaa7b60ae62"
 ---
