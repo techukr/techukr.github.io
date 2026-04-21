@@ -1,0 +1,12 @@
+---
+title: "If Plaid win in Wales, that won't mean independence - at least not yet"
+date: 2026-04-21T02:25:57+00:00
+external_url: "https://www.bbc.com/news/articles/c9958227r38o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "uk"
+time_ago: "1h"
+article_hash: "329e2b3fa9c2"
+---
