@@ -7,6 +7,6 @@ source_name: "Ars Technica"
 source_slug: "ars-technica"
 categories:
   - "sport"
-time_ago: "1h"
+time_ago: "22h"
 article_hash: "9d0ce7c66f93"
 ---
