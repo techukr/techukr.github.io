@@ -7,6 +7,6 @@ source_name: "MarketWatch"
 source_slug: "marketwatch"
 categories:
   - "technology"
-time_ago: "1h"
+time_ago: "2h"
 article_hash: "e2f0f12c4446"
 ---
