@@ -1,12 +1,12 @@
 ---
-title: "SpaceX Says It Has Agreement to Acquire Cursor for $60B"
-date: 2026-04-21T22:40:46+00:00
-external_url: "https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion"
+title: "SpaceX says it has agreement to acquire Cursor for $60B"
+date: 2026-04-21T22:13:18+00:00
+external_url: "https://twitter.com/spacex/status/2046713419978453374"
 source: "https://hnrss.org/frontpage"
 source_name: "Hacker News"
 source_slug: "hacker-news"
 categories:
   - "science"
-time_ago: "1h"
-article_hash: "bafb5991580d"
+time_ago: "5h"
+article_hash: "7eec44f8b590"
 ---
