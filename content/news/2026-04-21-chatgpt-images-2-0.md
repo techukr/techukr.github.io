@@ -7,6 +7,6 @@ source_name: "Hacker News"
 source_slug: "hacker-news"
 categories:
   - "technology"
-time_ago: "4h"
+time_ago: "20h"
 article_hash: "08ccbc17ddee"
 ---
