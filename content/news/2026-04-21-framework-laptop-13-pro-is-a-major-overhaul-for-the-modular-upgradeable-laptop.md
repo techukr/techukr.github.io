@@ -7,6 +7,6 @@ source_name: "Ars Technica"
 source_slug: "ars-technica"
 categories:
   - "general"
-time_ago: "22h"
+time_ago: "23h"
 article_hash: "b0a0e118eee2"
 ---
