@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "world"
   - "health"
-time_ago: "58m"
+time_ago: "3h"
 article_hash: "5f48c4abe9c5"
 ---
