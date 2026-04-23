@@ -1,0 +1,12 @@
+---
+title: "Woman killed by bear in Polish forest, son and local government say"
+date: 2026-04-23T18:16:19+00:00
+external_url: "https://www.bbc.com/news/articles/c20qrg4dyr3o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "politics"
+time_ago: "59m"
+article_hash: "1c97743f73ec"
+---
