@@ -9,6 +9,6 @@ categories:
   - "science"
   - "entertainment"
   - "health"
-time_ago: "52m"
+time_ago: "1d"
 article_hash: "86c2719647f5"
 ---
