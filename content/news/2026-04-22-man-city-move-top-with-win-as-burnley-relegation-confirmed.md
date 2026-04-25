@@ -7,6 +7,6 @@ source_name: "BBC Sport"
 source_slug: "bbc-sport"
 categories:
   - "general"
-time_ago: "28m"
+time_ago: "2d"
 article_hash: "0a746fe90054"
 ---
