@@ -1,0 +1,12 @@
+---
+title: "World leaders express shock, support after White House Correspondents' Dinner shooting"
+date: 2026-04-26T13:57:27+00:00
+external_url: "https://www.cnbc.com/2026/04/26/world-leaders-express-support-after-washington-dc-shooting.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "general"
+time_ago: "8h"
+article_hash: "c5910c669c36"
+---
