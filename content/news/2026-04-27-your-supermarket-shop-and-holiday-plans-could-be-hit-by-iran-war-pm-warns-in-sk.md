@@ -8,6 +8,6 @@ source_slug: "sky-news"
 categories:
   - "world"
   - "business"
-time_ago: "3h"
+time_ago: "4h"
 article_hash: "c8b801d9477d"
 ---
