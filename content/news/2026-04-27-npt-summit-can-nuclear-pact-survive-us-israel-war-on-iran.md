@@ -7,6 +7,6 @@ source_name: "Al Jazeera"
 source_slug: "al-jazeera"
 categories:
   - "world"
-time_ago: "40m"
+time_ago: "2h"
 article_hash: "b43df988133c"
 ---
