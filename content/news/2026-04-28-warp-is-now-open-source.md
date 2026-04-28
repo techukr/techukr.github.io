@@ -1,12 +1,12 @@
 ---
-title: "Warp is now Open-Source"
-date: 2026-04-28T17:09:41+00:00
-external_url: "https://github.com/warpdotdev/warp"
+title: "Warp is now open-source"
+date: 2026-04-28T15:58:30+00:00
+external_url: "https://www.warp.dev/blog/warp-is-now-open-source"
 source: "https://hnrss.org/frontpage"
 source_name: "Hacker News"
 source_slug: "hacker-news"
 categories:
   - "general"
-time_ago: "2h"
-article_hash: "d0dbba84b6a1"
+time_ago: "5h"
+article_hash: "e164412a1dba"
 ---
