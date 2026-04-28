@@ -1,12 +1,12 @@
 ---
-title: "UAE leaves OPEC and OPEC+"
-date: 2026-04-28T12:33:10+00:00
-external_url: "https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec?traffic_source=rss"
-source: "https://www.aljazeera.com/xml/rss/all.xml"
-source_name: "Al Jazeera"
-source_slug: "al-jazeera"
+title: "UAE Leaves OPEC and OPEC+"
+date: 2026-04-28T13:13:54+00:00
+external_url: "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
 categories:
   - "general"
-time_ago: "40m"
-article_hash: "20e427d665f8"
+time_ago: "2h"
+article_hash: "f99394eaa7ea"
 ---
