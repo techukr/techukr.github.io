@@ -1,0 +1,12 @@
+---
+title: "PGA Tour Power Rankings: Scottie Scheffler or Rory..."
+date: 2026-04-29T20:38:56+00:00
+external_url: "https://www.espn.com/golf/story/_/id/48611135/pga-tour-power-rankings-scottie-scheffler-rory-mcilroy-no-1"
+source: "https://www.espn.com/espn/rss/news"
+source_name: "ESPN"
+source_slug: "espn"
+categories:
+  - "general"
+time_ago: "now"
+article_hash: "87d9df8ae671"
+---
