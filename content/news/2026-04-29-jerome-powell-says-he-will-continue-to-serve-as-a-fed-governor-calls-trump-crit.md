@@ -7,6 +7,6 @@ source_name: "CNBC"
 source_slug: "cnbc"
 categories:
   - "politics"
-time_ago: "27m"
+time_ago: "10h"
 article_hash: "995e13692e52"
 ---
