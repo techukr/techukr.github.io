@@ -8,6 +8,6 @@ source_slug: "al-jazeera"
 categories:
   - "world"
   - "business"
-time_ago: "57m"
+time_ago: "6h"
 article_hash: "a4eba3ba65c0"
 ---
