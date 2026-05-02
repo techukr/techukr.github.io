@@ -1,12 +1,12 @@
 ---
 title: "California to begin ticketing driverless cars that violate traffic laws"
-date: 2026-05-02T15:31:40+00:00
-external_url: "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-05-02T17:59:18+00:00
+external_url: "https://www.bbc.com/news/articles/clypjx3rg2go"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
 categories:
   - "general"
-time_ago: "39m"
-article_hash: "6aca55547c62"
+time_ago: "1h"
+article_hash: "698b3bc11b2f"
 ---
