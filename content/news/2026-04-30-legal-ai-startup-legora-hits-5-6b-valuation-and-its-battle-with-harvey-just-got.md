@@ -8,6 +8,6 @@ source_slug: "techcrunch"
 categories:
   - "business"
   - "technology"
-time_ago: "53m"
+time_ago: "2d"
 article_hash: "4f23af2c0635"
 ---
