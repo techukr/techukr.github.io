@@ -1,0 +1,13 @@
+---
+title: "Trump says US to begin escorting ships in Strait of Hormuz"
+date: 2026-05-04T03:47:00+00:00
+external_url: "https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+  - "politics"
+time_ago: "2h"
+article_hash: "060c9ee9a7c0"
+---
