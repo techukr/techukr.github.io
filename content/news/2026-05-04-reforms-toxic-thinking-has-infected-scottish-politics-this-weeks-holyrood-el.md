@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "world"
   - "politics"
-time_ago: "22m"
+time_ago: "13h"
 article_hash: "7cc311d3b51e"
 ---
