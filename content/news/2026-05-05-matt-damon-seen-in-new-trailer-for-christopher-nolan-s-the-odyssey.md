@@ -1,0 +1,12 @@
+---
+title: "Matt Damon seen in new trailer for Christopher Nolan's The Odyssey"
+date: 2026-05-05T10:33:42+00:00
+external_url: "https://www.bbc.com/news/articles/c78qwze8wexo?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "5h"
+article_hash: "9436aec57a2b"
+---
