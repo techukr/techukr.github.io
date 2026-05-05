@@ -1,0 +1,12 @@
+---
+title: "UK counterterrorism police investigate arson attack at former synagogue"
+date: 2026-05-05T12:00:51+00:00
+external_url: "https://www.aljazeera.com/news/2026/5/5/uk-counterterrorism-police-investigate-arson-attack-at-former-synagogue?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "uk"
+time_ago: "2h"
+article_hash: "56a36ac7d925"
+---
