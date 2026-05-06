@@ -1,0 +1,12 @@
+---
+title: "Uber misses on revenue but issues higher-than-expected bookings guidance"
+date: 2026-05-06T11:21:50+00:00
+external_url: "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "business"
+time_ago: "3m"
+article_hash: "f88abe5a20e5"
+---
