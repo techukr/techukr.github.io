@@ -1,0 +1,14 @@
+---
+title: "Healthy Returns: First Ozempic generics in Canada will be a test case for Novo Nordisk"
+date: 2026-05-07T18:39:44+00:00
+external_url: "https://www.cnbc.com/2026/05/07/healthy-returns-novo-nordisk-faces-ozempic-generics-in-canada-.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "world"
+  - "science"
+  - "health"
+time_ago: "34m"
+article_hash: "fd9c78c761a8"
+---
