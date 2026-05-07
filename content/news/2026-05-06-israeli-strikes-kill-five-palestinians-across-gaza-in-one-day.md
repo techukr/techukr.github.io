@@ -1,0 +1,12 @@
+---
+title: "Israeli strikes kill five Palestinians across Gaza in one day"
+date: 2026-05-06T23:20:32+00:00
+external_url: "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "5fd8c4c9220f"
+---
