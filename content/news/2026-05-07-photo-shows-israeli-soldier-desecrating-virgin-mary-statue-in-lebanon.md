@@ -1,0 +1,12 @@
+---
+title: "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon"
+date: 2026-05-07T04:48:38+00:00
+external_url: "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "2h"
+article_hash: "b6f95631f52a"
+---
