@@ -7,6 +7,6 @@ source_name: "Hacker News"
 source_slug: "hacker-news"
 categories:
   - "general"
-time_ago: "10m"
+time_ago: "2h"
 article_hash: "c122dcde12a0"
 ---
