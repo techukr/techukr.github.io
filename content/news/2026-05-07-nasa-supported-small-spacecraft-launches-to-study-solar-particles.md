@@ -8,6 +8,6 @@ source_slug: "nasa"
 categories:
   - "science"
   - "environment"
-time_ago: "28m"
+time_ago: "6h"
 article_hash: "7aa45845aae1"
 ---
