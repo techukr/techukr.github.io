@@ -8,6 +8,6 @@ source_slug: "cnbc"
 categories:
   - "world"
   - "politics"
-time_ago: "22m"
+time_ago: "7h"
 article_hash: "fee41271f707"
 ---
