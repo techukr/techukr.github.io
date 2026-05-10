@@ -7,6 +7,6 @@ source_name: "Al Jazeera"
 source_slug: "al-jazeera"
 categories:
   - "technology"
-time_ago: "46m"
+time_ago: "1h"
 article_hash: "303d07d411ac"
 ---
