@@ -7,6 +7,6 @@ source_name: "BBC News"
 source_slug: "bbc-news"
 categories:
   - "politics"
-time_ago: "24m"
+time_ago: "1d"
 article_hash: "3f365f1e87d6"
 ---
