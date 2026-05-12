@@ -1,0 +1,12 @@
+---
+title: "Waymo recalls 3,800 robotaxis after glitch allowed some vehicles to 'drive into standing water'"
+date: 2026-05-12T18:40:42+00:00
+external_url: "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "technology"
+time_ago: "1h"
+article_hash: "3c3c850b6b29"
+---
