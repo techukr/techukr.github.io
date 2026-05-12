@@ -1,12 +1,12 @@
 ---
 title: "Polanski apologises over houseboat council tax"
-date: 2026-05-12T01:55:14+00:00
-external_url: "https://www.bbc.com/news/articles/cy02wdzrg6jo?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-05-12T04:02:00+00:00
+external_url: "https://news.sky.com/story/zack-polanski-apologises-over-houseboat-council-tax-13542950"
+source: "https://feeds.skynews.com/feeds/rss/home.xml"
+source_name: "Sky News"
+source_slug: "sky-news"
 categories:
   - "general"
-time_ago: "2h"
-article_hash: "364064c95f43"
+time_ago: "3h"
+article_hash: "f5a35896bfda"
 ---
