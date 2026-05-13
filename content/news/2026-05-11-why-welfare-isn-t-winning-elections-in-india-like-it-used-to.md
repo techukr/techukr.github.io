@@ -8,6 +8,6 @@ source_slug: "bbc-world"
 categories:
   - "world"
   - "politics"
-time_ago: "6h"
+time_ago: "1d"
 article_hash: "692feabb6e8e"
 ---

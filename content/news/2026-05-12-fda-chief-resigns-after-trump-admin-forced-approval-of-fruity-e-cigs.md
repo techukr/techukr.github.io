@@ -7,6 +7,6 @@ source_name: "Ars Technica"
 source_slug: "ars-technica"
 categories:
   - "politics"
-time_ago: "1h"
+time_ago: "10h"
 article_hash: "822de3adecdf"
 ---
