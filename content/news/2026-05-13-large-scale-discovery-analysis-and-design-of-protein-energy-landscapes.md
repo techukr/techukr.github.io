@@ -1,0 +1,12 @@
+---
+title: "Large-scale discovery, analysis and design of protein energy landscapes"
+date: 2026-05-13T00:00:00+00:00
+external_url: "https://www.nature.com/articles/s41586-026-10465-z"
+source: "https://www.nature.com/nature.rss"
+source_name: "Nature"
+source_slug: "nature"
+categories:
+  - "science"
+time_ago: "16h"
+article_hash: "5475003713c8"
+---
