@@ -1,0 +1,13 @@
+---
+title: "Starmer warns leadership contest would 'plunge us into chaos' in pleas to ministers and MPs"
+date: 2026-05-13T21:39:37+00:00
+external_url: "https://www.bbc.com/news/articles/cvgzv4eqdrno?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "world"
+  - "politics"
+time_ago: "13m"
+article_hash: "ffea8f92a5f6"
+---
