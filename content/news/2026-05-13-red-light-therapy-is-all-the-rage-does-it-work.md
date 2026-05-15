@@ -7,6 +7,6 @@ source_name: "Nature"
 source_slug: "nature"
 categories:
   - "general"
-time_ago: "18h"
+time_ago: "2d"
 article_hash: "8ba37efd47ae"
 ---
