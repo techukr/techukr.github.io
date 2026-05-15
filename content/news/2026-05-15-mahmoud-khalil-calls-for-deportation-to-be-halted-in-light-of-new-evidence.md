@@ -1,0 +1,12 @@
+---
+title: "Mahmoud Khalil calls for deportation to be halted in light of new evidence"
+date: 2026-05-15T21:13:24+00:00
+external_url: "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "d1b1c4f575c2"
+---
