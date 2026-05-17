@@ -8,6 +8,6 @@ source_slug: "nature"
 categories:
   - "world"
   - "science"
-time_ago: "21h"
+time_ago: "2d"
 article_hash: "0034ef231718"
 ---
