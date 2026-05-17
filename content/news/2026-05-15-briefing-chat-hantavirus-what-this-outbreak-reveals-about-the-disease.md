@@ -8,6 +8,6 @@ source_slug: "nature"
 categories:
   - "world"
   - "health"
-time_ago: "15h"
+time_ago: "2d"
 article_hash: "1e2a3622c1a3"
 ---
