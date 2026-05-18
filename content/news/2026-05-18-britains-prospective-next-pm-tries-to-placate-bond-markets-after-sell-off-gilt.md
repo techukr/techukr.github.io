@@ -1,0 +1,13 @@
+---
+title: "Britain’s prospective next PM tries to placate bond markets after sell-off, gilts steady"
+date: 2026-05-18T09:05:08+00:00
+external_url: "https://www.cnbc.com/2026/05/18/burnham-gilts-inflation-starmer-interest-rates-bonds.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "uk"
+  - "business"
+time_ago: "1h"
+article_hash: "0d48865c690d"
+---
