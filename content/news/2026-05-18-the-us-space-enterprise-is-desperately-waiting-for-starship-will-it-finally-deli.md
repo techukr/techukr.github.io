@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "world"
   - "science"
-time_ago: "3h"
+time_ago: "6h"
 article_hash: "aead604c15b2"
 ---
