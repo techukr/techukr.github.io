@@ -8,6 +8,6 @@ source_slug: "cnbc"
 categories:
   - "technology"
   - "health"
-time_ago: "48m"
+time_ago: "2h"
 article_hash: "c0cbf2f299cc"
 ---
