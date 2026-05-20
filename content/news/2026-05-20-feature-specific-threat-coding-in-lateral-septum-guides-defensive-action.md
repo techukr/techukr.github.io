@@ -1,0 +1,12 @@
+---
+title: "Feature-specific threat coding in lateral septum guides defensive action"
+date: 2026-05-20T00:00:00+00:00
+external_url: "https://www.nature.com/articles/s41586-026-10520-9"
+source: "https://www.nature.com/nature.rss"
+source_name: "Nature"
+source_slug: "nature"
+categories:
+  - "general"
+time_ago: "17h"
+article_hash: "70c3175dda95"
+---
