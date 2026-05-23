@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "politics"
   - "technology"
-time_ago: "1h"
+time_ago: "1d"
 article_hash: "bf6fa60052f8"
 ---
