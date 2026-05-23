@@ -1,0 +1,12 @@
+---
+title: "Charlton earn WSL promotion after Whitehouse penalty heroics"
+date: 2026-05-23T15:44:19+00:00
+external_url: "https://www.bbc.com/sport/football/videos/cm2p948lq4ro?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/sport/rss.xml"
+source_name: "BBC Sport"
+source_slug: "bbc-sport"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "5bcf60884321"
+---
