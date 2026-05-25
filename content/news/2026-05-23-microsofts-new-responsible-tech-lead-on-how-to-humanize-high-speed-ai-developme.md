@@ -7,6 +7,6 @@ source_name: "CNBC"
 source_slug: "cnbc"
 categories:
   - "technology"
-time_ago: "2h"
+time_ago: "2d"
 article_hash: "5f29fc964006"
 ---
