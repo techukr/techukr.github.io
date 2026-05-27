@@ -1,0 +1,12 @@
+---
+title: "Jill Biden says she thought husband was 'having a stroke' during 2024 debate"
+date: 2026-05-27T21:06:19+00:00
+external_url: "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "politics"
+time_ago: "1h"
+article_hash: "9283b219c2a7"
+---
