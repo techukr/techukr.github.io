@@ -8,6 +8,6 @@ source_slug: "nature"
 categories:
   - "technology"
   - "sport"
-time_ago: "18h"
+time_ago: "1d"
 article_hash: "3f5d28e48b50"
 ---
