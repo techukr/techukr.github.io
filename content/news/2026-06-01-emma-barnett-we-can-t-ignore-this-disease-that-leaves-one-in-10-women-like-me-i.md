@@ -7,6 +7,6 @@ source_name: "BBC News"
 source_slug: "bbc-news"
 categories:
   - "health"
-time_ago: "2h"
+time_ago: "14h"
 article_hash: "1f0470b648ee"
 ---
