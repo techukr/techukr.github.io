@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "politics"
   - "health"
-time_ago: "3h"
+time_ago: "13h"
 article_hash: "ce0d00079476"
 ---
