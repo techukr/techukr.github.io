@@ -8,6 +8,6 @@ source_slug: "techcrunch"
 categories:
   - "politics"
   - "technology"
-time_ago: "1h"
+time_ago: "6h"
 article_hash: "02620d5cd5ae"
 ---
