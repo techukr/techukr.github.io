@@ -1,12 +1,12 @@
 ---
 title: "Uber slashes people division by nearly a quarter. CEO says 'changes are necessary'"
-date: 2026-06-03T16:22:18+00:00
+date: 2026-06-03T18:39:25+00:00
 external_url: "https://www.cnbc.com/2026/06/03/uber-layoffs-people-division-ai.html"
 source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
 source_name: "CNBC"
 source_slug: "cnbc"
 categories:
   - "general"
-time_ago: "44m"
+time_ago: "1h"
 article_hash: "d2a8db535630"
 ---
