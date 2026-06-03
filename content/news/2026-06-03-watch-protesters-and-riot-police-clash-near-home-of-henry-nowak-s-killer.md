@@ -1,0 +1,12 @@
+---
+title: "Watch: Protesters and riot police clash near home of Henry Nowak's killer"
+date: 2026-06-03T05:13:36+00:00
+external_url: "https://www.bbc.com/news/videos/cn0pd491gn2o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "114fad0ee024"
+---
