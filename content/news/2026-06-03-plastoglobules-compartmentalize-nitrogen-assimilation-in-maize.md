@@ -1,0 +1,12 @@
+---
+title: "Plastoglobules compartmentalize nitrogen assimilation in maize"
+date: 2026-06-03T00:00:00+00:00
+external_url: "https://www.nature.com/articles/s41586-026-10610-8"
+source: "https://www.nature.com/nature.rss"
+source_name: "Nature"
+source_slug: "nature"
+categories:
+  - "general"
+time_ago: "17h"
+article_hash: "da3105a5cfb1"
+---
