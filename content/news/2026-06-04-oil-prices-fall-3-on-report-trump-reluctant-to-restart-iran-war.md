@@ -1,6 +1,6 @@
 ---
 title: "Oil prices fall 3% on report Trump reluctant to restart Iran war"
-date: 2026-06-04T14:00:53+00:00
+date: 2026-06-04T19:25:55+00:00
 external_url: "https://www.cnbc.com/2026/06/04/oil-price-today-iran-war-hormuz-trump-israel-lebanon.html"
 source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
 source_name: "CNBC"
@@ -9,6 +9,6 @@ categories:
   - "world"
   - "politics"
   - "business"
-time_ago: "1m"
+time_ago: "12m"
 article_hash: "64e89439a439"
 ---
