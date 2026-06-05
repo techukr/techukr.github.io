@@ -9,6 +9,6 @@ categories:
   - "business"
   - "technology"
   - "entertainment"
-time_ago: "2h"
+time_ago: "4h"
 article_hash: "7de40954fb2f"
 ---
