@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "technology"
   - "sport"
-time_ago: "2h"
+time_ago: "1d"
 article_hash: "1f809a308b0c"
 ---
