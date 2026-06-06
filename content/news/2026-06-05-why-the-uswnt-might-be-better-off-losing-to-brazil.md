@@ -7,6 +7,6 @@ source_name: "ESPN"
 source_slug: "espn"
 categories:
   - "world"
-time_ago: "now"
+time_ago: "11h"
 article_hash: "f72603876dff"
 ---
