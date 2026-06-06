@@ -7,6 +7,6 @@ source_name: "BBC News"
 source_slug: "bbc-news"
 categories:
   - "world"
-time_ago: "1h"
+time_ago: "4h"
 article_hash: "bc08aebf9022"
 ---
