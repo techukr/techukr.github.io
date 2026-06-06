@@ -1,0 +1,12 @@
+---
+title: "Man dies in Western Australia after shark attack"
+date: 2026-06-06T08:17:32+00:00
+external_url: "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+time_ago: "2h"
+article_hash: "89e811e99d78"
+---
