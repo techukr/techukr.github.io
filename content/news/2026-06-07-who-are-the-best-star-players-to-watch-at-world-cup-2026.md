@@ -8,6 +8,6 @@ source_slug: "al-jazeera"
 categories:
   - "sport"
   - "health"
-time_ago: "39m"
+time_ago: "2h"
 article_hash: "7e68485b877b"
 ---
