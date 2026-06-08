@@ -7,6 +7,6 @@ source_name: "The Guardian"
 source_slug: "the-guardian"
 categories:
   - "sport"
-time_ago: "24m"
+time_ago: "2h"
 article_hash: "5cb826e0a869"
 ---
