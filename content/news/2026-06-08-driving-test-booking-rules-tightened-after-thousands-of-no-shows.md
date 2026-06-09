@@ -1,0 +1,12 @@
+---
+title: "Driving test booking rules tightened after thousands of no shows"
+date: 2026-06-08T23:05:32+00:00
+external_url: "https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "63ef0f1ef03d"
+---
