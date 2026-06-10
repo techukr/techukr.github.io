@@ -1,0 +1,14 @@
+---
+title: "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview"
+date: 2026-06-10T18:17:33+00:00
+external_url: "https://www.cnbc.com/2026/06/10/wall-street-needs-crash-course-in-tokens-ahead-openai-anthropic-ipos.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "business"
+  - "technology"
+  - "science"
+time_ago: "14m"
+article_hash: "ba718c285595"
+---
