@@ -1,0 +1,12 @@
+---
+title: "Bisignano says Social Security Administration's phone helpline wait times have reached a record low"
+date: 2026-06-10T21:21:23+00:00
+external_url: "https://www.cnbc.com/2026/06/10/bisignano-social-security-phone-wait-times.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "general"
+time_ago: "4m"
+article_hash: "6c6f5bf60029"
+---
