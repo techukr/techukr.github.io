@@ -9,6 +9,6 @@ categories:
   - "politics"
   - "business"
   - "sport"
-time_ago: "2h"
+time_ago: "5h"
 article_hash: "ab8d7a0ac9b3"
 ---
