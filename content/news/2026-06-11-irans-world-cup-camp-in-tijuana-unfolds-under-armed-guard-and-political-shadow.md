@@ -9,6 +9,6 @@ categories:
   - "world"
   - "politics"
   - "sport"
-time_ago: "45m"
+time_ago: "2h"
 article_hash: "a10687821aa8"
 ---
