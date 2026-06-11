@@ -7,6 +7,6 @@ source_name: "The Verge"
 source_slug: "the-verge"
 categories:
   - "health"
-time_ago: "8m"
+time_ago: "5h"
 article_hash: "471684cd1c22"
 ---

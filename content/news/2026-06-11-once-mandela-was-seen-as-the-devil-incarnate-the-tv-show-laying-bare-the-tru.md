@@ -7,6 +7,6 @@ source_name: "The Guardian"
 source_slug: "the-guardian"
 categories:
   - "entertainment"
-time_ago: "5h"
+time_ago: "7h"
 article_hash: "cd13a95a98b0"
 ---
