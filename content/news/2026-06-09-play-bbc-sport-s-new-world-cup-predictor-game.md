@@ -8,6 +8,6 @@ source_slug: "bbc-sport"
 categories:
   - "uk"
   - "sport"
-time_ago: "7m"
+time_ago: "3d"
 article_hash: "ba133266d9ce"
 ---
