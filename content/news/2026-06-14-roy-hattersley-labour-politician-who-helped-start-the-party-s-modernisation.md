@@ -8,6 +8,6 @@ source_slug: "bbc-news"
 categories:
   - "politics"
   - "health"
-time_ago: "1h"
+time_ago: "8h"
 article_hash: "2a3f0b2f82d7"
 ---
