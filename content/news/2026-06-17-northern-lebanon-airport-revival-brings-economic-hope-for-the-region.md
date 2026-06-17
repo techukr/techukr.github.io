@@ -1,0 +1,12 @@
+---
+title: "Northern Lebanon airport revival brings economic hope for the region"
+date: 2026-06-17T15:03:44+00:00
+external_url: "https://www.aljazeera.com/news/2026/6/17/northern-lebanon-airport-revival-brings-economic-hope-for-the-region?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "7a0b1f3de608"
+---
