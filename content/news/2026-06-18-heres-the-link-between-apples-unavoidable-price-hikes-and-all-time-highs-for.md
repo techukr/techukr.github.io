@@ -8,6 +8,6 @@ source_slug: "marketwatch"
 categories:
   - "business"
   - "technology"
-time_ago: "16m"
+time_ago: "3h"
 article_hash: "a5345384ac9a"
 ---
