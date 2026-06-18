@@ -8,6 +8,6 @@ source_slug: "hacker-news"
 categories:
   - "technology"
   - "health"
-time_ago: "1h"
+time_ago: "16h"
 article_hash: "739630f10b51"
 ---
