@@ -1,0 +1,13 @@
+---
+title: "US refuses to ease Iran World Cup travel restrictions for Belgium match"
+date: 2026-06-20T23:45:36+00:00
+external_url: "https://www.aljazeera.com/sports/2026/6/20/us-refuses-to-ease-iran-world-cup-travel-restrictions-for-belgium-match?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+  - "sport"
+time_ago: "24m"
+article_hash: "aa93b99d7797"
+---
