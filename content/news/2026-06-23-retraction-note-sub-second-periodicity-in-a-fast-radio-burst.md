@@ -1,0 +1,12 @@
+---
+title: "Retraction Note: Sub-second periodicity in a fast radio burst"
+date: 2026-06-23T00:00:00+00:00
+external_url: "https://www.nature.com/articles/s41586-026-10799-8"
+source: "https://www.nature.com/nature.rss"
+source_name: "Nature"
+source_slug: "nature"
+categories:
+  - "general"
+time_ago: "18h"
+article_hash: "c4397fc9d2ad"
+---

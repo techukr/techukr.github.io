@@ -1,0 +1,12 @@
+---
+title: "Israeli police clash with anti-draft ultra-Orthodox protesters"
+date: 2026-06-23T16:22:00+00:00
+external_url: "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-police-clash-with-anti-draft-ultra-orthodox-protesters?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "77ecc5587f50"
+---
