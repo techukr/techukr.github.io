@@ -1,12 +1,12 @@
 ---
 title: "'Simply stunning' - Mbappe opens the scoring against Iraq"
 date: 2026-06-22T21:47:23+00:00
-external_url: "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss"
+external_url: "https://www.bbc.co.uk/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss"
 source: "http://feeds.bbci.co.uk/sport/rss.xml"
 source_name: "BBC Sport"
 source_slug: "bbc-sport"
 categories:
   - "general"
-time_ago: "1h"
-article_hash: "3b1159140106"
+time_ago: "12h"
+article_hash: "b8031f3f6328"
 ---
