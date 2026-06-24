@@ -1,0 +1,14 @@
+---
+title: "Asia tech stocks mixed as Samsung rebounds, but chip shares remain under pressure after global selloff"
+date: 2026-06-24T03:26:20+00:00
+external_url: "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "world"
+  - "business"
+  - "technology"
+time_ago: "25m"
+article_hash: "546bf2ed48af"
+---
