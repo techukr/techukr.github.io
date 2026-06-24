@@ -1,0 +1,12 @@
+---
+title: "Why are there holiday delay warnings over the EU's new border system?"
+date: 2026-06-24T09:47:35+00:00
+external_url: "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/world/rss.xml"
+source_name: "BBC World"
+source_slug: "bbc-world"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "3bf75fda74fa"
+---
