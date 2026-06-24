@@ -7,6 +7,6 @@ source_name: "Ars Technica"
 source_slug: "ars-technica"
 categories:
   - "health"
-time_ago: "2h"
+time_ago: "19h"
 article_hash: "c1499b122d15"
 ---
