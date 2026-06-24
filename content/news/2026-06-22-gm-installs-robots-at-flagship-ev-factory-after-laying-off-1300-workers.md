@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "technology"
   - "entertainment"
-time_ago: "1h"
+time_ago: "1d"
 article_hash: "5fbd5a5fa36c"
 ---
