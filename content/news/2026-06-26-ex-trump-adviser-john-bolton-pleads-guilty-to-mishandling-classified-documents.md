@@ -1,12 +1,12 @@
 ---
 title: "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents"
-date: 2026-06-26T08:26:00+00:00
-external_url: "https://news.sky.com/story/john-bolton-trumps-former-national-security-adviser-pleads-guilty-to-mishandling-classified-documents-13557941"
-source: "https://feeds.skynews.com/feeds/rss/home.xml"
-source_name: "Sky News"
-source_slug: "sky-news"
+date: 2026-06-26T16:45:21+00:00
+external_url: "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
 categories:
   - "politics"
-time_ago: "6h"
-article_hash: "c3f9da29f376"
+time_ago: "16m"
+article_hash: "1adf787c1375"
 ---
