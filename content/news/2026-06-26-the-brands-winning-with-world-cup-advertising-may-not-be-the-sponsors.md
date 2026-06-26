@@ -7,6 +7,6 @@ source_name: "CNBC"
 source_slug: "cnbc"
 categories:
   - "sport"
-time_ago: "2h"
+time_ago: "6h"
 article_hash: "75e8027df8ba"
 ---
