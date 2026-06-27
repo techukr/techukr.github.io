@@ -1,0 +1,12 @@
+---
+title: "Ballon d'Dembélé! Hat trick vs. Norway shows Franc..."
+date: 2026-06-27T01:01:30+00:00
+external_url: "https://www.espn.com/soccer/story/_/id/49190626/france-norway-fifa-world-cup-ousmane-dembele-kylian-mbappe"
+source: "https://www.espn.com/espn/rss/news"
+source_name: "ESPN"
+source_slug: "espn"
+categories:
+  - "general"
+time_ago: "now"
+article_hash: "c7cc5021cb03"
+---
