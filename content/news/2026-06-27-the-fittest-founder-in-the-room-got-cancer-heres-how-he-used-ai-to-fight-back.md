@@ -8,6 +8,6 @@ source_slug: "techcrunch"
 categories:
   - "technology"
   - "health"
-time_ago: "1h"
+time_ago: "8h"
 article_hash: "d032b792729f"
 ---
