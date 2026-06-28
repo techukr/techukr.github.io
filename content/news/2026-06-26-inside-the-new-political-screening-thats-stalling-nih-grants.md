@@ -7,6 +7,6 @@ source_name: "Nature"
 source_slug: "nature"
 categories:
   - "politics"
-time_ago: "1d"
+time_ago: "2d"
 article_hash: "5b7c88a507c0"
 ---
