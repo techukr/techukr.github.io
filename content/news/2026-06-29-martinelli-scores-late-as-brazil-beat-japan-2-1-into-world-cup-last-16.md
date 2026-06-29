@@ -8,6 +8,6 @@ source_slug: "al-jazeera"
 categories:
   - "world"
   - "sport"
-time_ago: "1h"
+time_ago: "3h"
 article_hash: "c37cfd311140"
 ---
