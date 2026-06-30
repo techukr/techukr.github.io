@@ -1,6 +1,6 @@
 ---
 title: "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?"
-date: 2026-06-30T17:30:00+00:00
+date: 2026-06-30T21:00:00+00:00
 external_url: "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories"
 source: "https://feeds.marketwatch.com/marketwatch/topstories/"
 source_name: "MarketWatch"
