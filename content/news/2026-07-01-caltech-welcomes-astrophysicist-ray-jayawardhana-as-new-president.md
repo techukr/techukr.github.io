@@ -9,6 +9,6 @@ categories:
   - "politics"
   - "technology"
   - "entertainment"
-time_ago: "3h"
+time_ago: "1d"
 article_hash: "1a65e0d079f8"
 ---
