@@ -7,6 +7,6 @@ source_name: "TechCrunch"
 source_slug: "techcrunch"
 categories:
   - "health"
-time_ago: "20m"
+time_ago: "4h"
 article_hash: "4d59738c612c"
 ---
