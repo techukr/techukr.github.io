@@ -1,0 +1,12 @@
+---
+title: "Mum of TikToker has murder sentence appeal rejected"
+date: 2026-07-03T12:53:19+00:00
+external_url: "https://www.bbc.co.uk/news/articles/cj6g04y6xg6o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "f673ecac7609"
+---

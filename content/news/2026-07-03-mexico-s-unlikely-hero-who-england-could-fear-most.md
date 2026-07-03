@@ -1,0 +1,14 @@
+---
+title: "Mexico's unlikely hero who England could fear most"
+date: 2026-07-03T12:02:36+00:00
+external_url: "https://www.bbc.co.uk/sport/football/articles/cqx1l3n9dj5o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/sport/rss.xml"
+source_name: "BBC Sport"
+source_slug: "bbc-sport"
+categories:
+  - "uk"
+  - "world"
+  - "health"
+time_ago: "2h"
+article_hash: "d794450c52e7"
+---
