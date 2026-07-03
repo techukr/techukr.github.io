@@ -7,6 +7,6 @@ source_name: "BBC World"
 source_slug: "bbc-world"
 categories:
   - "technology"
-time_ago: "3h"
+time_ago: "23h"
 article_hash: "ac2a3aa06b38"
 ---
