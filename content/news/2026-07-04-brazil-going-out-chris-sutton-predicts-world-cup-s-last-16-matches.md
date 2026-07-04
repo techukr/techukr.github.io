@@ -8,6 +8,6 @@ source_slug: "bbc-sport"
 categories:
   - "world"
   - "sport"
-time_ago: "2h"
+time_ago: "8h"
 article_hash: "922a7950e9d0"
 ---
