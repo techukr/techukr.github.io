@@ -9,6 +9,6 @@ categories:
   - "politics"
   - "business"
   - "science"
-time_ago: "1h"
+time_ago: "2d"
 article_hash: "e7ccacf8401a"
 ---
