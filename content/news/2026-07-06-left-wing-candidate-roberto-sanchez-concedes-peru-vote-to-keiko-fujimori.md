@@ -1,0 +1,12 @@
+---
+title: "Left-wing candidate Roberto Sanchez concedes Peru vote to Keiko Fujimori"
+date: 2026-07-06T19:00:45+00:00
+external_url: "https://www.aljazeera.com/news/2026/7/6/left-wing-candidate-roberto-sanchez-concedes-peru-vote-to-keiko-fujimori?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "politics"
+time_ago: "1h"
+article_hash: "13f05a3df534"
+---

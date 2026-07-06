@@ -7,6 +7,6 @@ source_name: "MarketWatch"
 source_slug: "marketwatch"
 categories:
   - "business"
-time_ago: "1h"
+time_ago: "3h"
 article_hash: "e74682e06dd2"
 ---
