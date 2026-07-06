@@ -1,0 +1,12 @@
+---
+title: "Why is Farage facing renewed scrutiny over his finances?"
+date: 2026-07-06T16:39:46+00:00
+external_url: "https://www.bbc.co.uk/news/articles/c1kyygjvz7go?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "business"
+time_ago: "2h"
+article_hash: "8ca42f53fdd4"
+---
