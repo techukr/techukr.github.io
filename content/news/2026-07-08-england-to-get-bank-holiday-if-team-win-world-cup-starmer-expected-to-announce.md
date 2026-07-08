@@ -10,6 +10,6 @@ categories:
   - "politics"
   - "business"
   - "sport"
-time_ago: "9m"
+time_ago: "1h"
 article_hash: "6803e4e35858"
 ---
