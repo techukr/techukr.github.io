@@ -1,0 +1,13 @@
+---
+title: "Samsung-backed AI chip firm Rebellions targets IPO in South Korea next year, CEO tells CNBC"
+date: 2026-07-08T07:34:15+00:00
+external_url: "https://www.cnbc.com/2026/07/08/rebellions-ipo-south-korea-ai-chips.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "business"
+  - "technology"
+time_ago: "1h"
+article_hash: "51b900ca3f52"
+---
