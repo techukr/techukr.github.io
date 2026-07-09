@@ -7,6 +7,6 @@ source_name: "Sky News"
 source_slug: "sky-news"
 categories:
   - "health"
-time_ago: "4h"
+time_ago: "6h"
 article_hash: "973c87a56ab6"
 ---
