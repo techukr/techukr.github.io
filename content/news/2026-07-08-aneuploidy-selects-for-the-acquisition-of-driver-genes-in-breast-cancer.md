@@ -9,6 +9,6 @@ categories:
   - "business"
   - "science"
   - "health"
-time_ago: "17h"
+time_ago: "2d"
 article_hash: "f70a73ecac3d"
 ---
