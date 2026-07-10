@@ -7,6 +7,6 @@ source_name: "TechCrunch"
 source_slug: "techcrunch"
 categories:
   - "sport"
-time_ago: "17m"
+time_ago: "21h"
 article_hash: "638b869504ec"
 ---
