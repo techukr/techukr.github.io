@@ -1,12 +1,12 @@
 ---
 title: "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74"
-date: 2026-07-12T05:15:01+00:00
-external_url: "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss"
-source: "https://www.aljazeera.com/xml/rss/all.xml"
-source_name: "Al Jazeera"
-source_slug: "al-jazeera"
+date: 2026-07-12T16:35:50+00:00
+external_url: "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/world/rss.xml"
+source_name: "BBC World"
+source_slug: "bbc-world"
 categories:
   - "general"
-time_ago: "1h"
-article_hash: "c1ebdeb7e0e5"
+time_ago: "25m"
+article_hash: "5543115b7cda"
 ---
