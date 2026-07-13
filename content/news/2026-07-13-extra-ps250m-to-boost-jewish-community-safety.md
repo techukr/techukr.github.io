@@ -1,0 +1,12 @@
+---
+title: "Extra £250m to boost Jewish community safety"
+date: 2026-07-13T01:17:29+00:00
+external_url: "https://www.bbc.co.uk/news/articles/c78y2xg0090o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "2h"
+article_hash: "2d3a85b00176"
+---
