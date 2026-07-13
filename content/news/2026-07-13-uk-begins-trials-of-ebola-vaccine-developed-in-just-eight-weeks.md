@@ -9,6 +9,6 @@ categories:
   - "uk"
   - "science"
   - "health"
-time_ago: "2h"
+time_ago: "5h"
 article_hash: "152c38529ea7"
 ---
