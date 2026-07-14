@@ -1,0 +1,13 @@
+---
+title: "FIFA World Cup: Meet Ismail Elfath, referee for England-Argentina semifinal"
+date: 2026-07-14T14:48:02+00:00
+external_url: "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-meet-ismail-elfath-referee-for-england-argentina-semifinal?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "uk"
+  - "sport"
+time_ago: "1h"
+article_hash: "083cda788ed1"
+---
