@@ -1,0 +1,13 @@
+---
+title: "Retail-trader 'bottleneck bros' eyeing AI supply chain can't wait for SK Hynix options"
+date: 2026-07-14T11:01:50+00:00
+external_url: "https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "business"
+  - "technology"
+time_ago: "1h"
+article_hash: "00776f179474"
+---
