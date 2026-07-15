@@ -1,0 +1,12 @@
+---
+title: "Italy's Meloni suffers surprise setback in close vote on electoral reform"
+date: 2026-07-15T11:44:28+00:00
+external_url: "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/world/rss.xml"
+source_name: "BBC World"
+source_slug: "bbc-world"
+categories:
+  - "politics"
+time_ago: "2h"
+article_hash: "7c56b687992c"
+---
