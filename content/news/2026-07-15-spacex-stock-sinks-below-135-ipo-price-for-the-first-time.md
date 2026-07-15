@@ -1,0 +1,13 @@
+---
+title: "SpaceX stock sinks below $135 IPO price for the first time"
+date: 2026-07-15T17:07:11+00:00
+external_url: "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "business"
+  - "science"
+time_ago: "40m"
+article_hash: "e081f4146f5c"
+---
