@@ -1,12 +1,12 @@
 ---
 title: "TikTok faces Ofcom investigation over child age checks"
-date: 2026-07-16T08:19:21+00:00
+date: 2026-07-16T11:08:33+00:00
 external_url: "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss"
 source: "http://feeds.bbci.co.uk/news/rss.xml"
 source_name: "BBC News"
 source_slug: "bbc-news"
 categories:
   - "general"
-time_ago: "1h"
+time_ago: "2h"
 article_hash: "91eb89c2ac75"
 ---

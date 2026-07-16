@@ -1,0 +1,12 @@
+---
+title: "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models"
+date: 2026-07-16T13:00:02+00:00
+external_url: "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "technology"
+time_ago: "58m"
+article_hash: "cfa7dfb68a7f"
+---
