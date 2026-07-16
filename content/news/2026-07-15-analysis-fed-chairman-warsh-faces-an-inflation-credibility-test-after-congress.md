@@ -1,0 +1,14 @@
+---
+title: "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings"
+date: 2026-07-15T21:43:39+00:00
+external_url: "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "politics"
+  - "business"
+  - "sport"
+time_ago: "11h"
+article_hash: "30017c3c1f54"
+---
