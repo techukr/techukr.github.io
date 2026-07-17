@@ -1,0 +1,12 @@
+---
+title: "Smith on challenge of Commonwealth comeback after miscarriages"
+date: 2026-07-17T07:53:37+00:00
+external_url: "https://www.bbc.co.uk/sport/athletics/articles/c5yzev4pzg4o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/sport/rss.xml"
+source_name: "BBC Sport"
+source_slug: "bbc-sport"
+categories:
+  - "general"
+time_ago: "2h"
+article_hash: "b2b3fd43e29d"
+---
