@@ -9,6 +9,6 @@ categories:
   - "world"
   - "science"
   - "environment"
-time_ago: "16h"
+time_ago: "2d"
 article_hash: "148f39a2be90"
 ---

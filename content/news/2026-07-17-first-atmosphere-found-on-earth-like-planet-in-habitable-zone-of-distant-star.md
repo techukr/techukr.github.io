@@ -1,12 +1,12 @@
 ---
 title: "First atmosphere found on Earth-like planet in habitable zone of distant star"
-date: 2026-07-17T12:58:37+00:00
-external_url: "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-07-17T14:06:13+00:00
+external_url: "https://www.bbc.com/news/articles/cy4kdd1e0ejo"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
 categories:
   - "general"
 time_ago: "1h"
-article_hash: "8923b9501b7d"
+article_hash: "7a744d687627"
 ---
