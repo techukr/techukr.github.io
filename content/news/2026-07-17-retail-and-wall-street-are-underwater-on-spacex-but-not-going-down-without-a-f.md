@@ -1,0 +1,12 @@
+---
+title: "Retail and Wall Street are underwater on SpaceX — but not going down without a fight"
+date: 2026-07-17T17:27:41+00:00
+external_url: "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "science"
+time_ago: "1h"
+article_hash: "b0cf6ce5325c"
+---
