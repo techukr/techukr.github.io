@@ -7,6 +7,6 @@ source_name: "Al Jazeera"
 source_slug: "al-jazeera"
 categories:
   - "sport"
-time_ago: "1h"
+time_ago: "3h"
 article_hash: "b36d4dff6822"
 ---
