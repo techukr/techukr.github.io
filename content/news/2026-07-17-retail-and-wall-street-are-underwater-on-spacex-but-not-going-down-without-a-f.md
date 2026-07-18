@@ -7,6 +7,6 @@ source_name: "CNBC"
 source_slug: "cnbc"
 categories:
   - "science"
-time_ago: "1h"
+time_ago: "18h"
 article_hash: "b0cf6ce5325c"
 ---
