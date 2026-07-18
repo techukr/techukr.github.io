@@ -1,0 +1,12 @@
+---
+title: "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping"
+date: 2026-07-18T09:38:37+00:00
+external_url: "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "world"
+time_ago: "18m"
+article_hash: "415a3d35fb72"
+---
