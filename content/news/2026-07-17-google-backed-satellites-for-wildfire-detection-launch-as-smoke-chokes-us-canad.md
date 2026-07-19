@@ -10,6 +10,6 @@ categories:
   - "technology"
   - "science"
   - "environment"
-time_ago: "16m"
+time_ago: "1d"
 article_hash: "56c954d7e011"
 ---
