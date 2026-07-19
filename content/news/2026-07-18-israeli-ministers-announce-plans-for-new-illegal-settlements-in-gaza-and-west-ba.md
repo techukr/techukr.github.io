@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "politics"
   - "business"
-time_ago: "27m"
+time_ago: "22h"
 article_hash: "b1f76b6a654e"
 ---
