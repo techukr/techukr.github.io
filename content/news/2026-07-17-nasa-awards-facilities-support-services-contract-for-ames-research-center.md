@@ -8,6 +8,6 @@ source_slug: "nasa"
 categories:
   - "science"
   - "entertainment"
-time_ago: "46m"
+time_ago: "3d"
 article_hash: "aaed9a66beb3"
 ---
