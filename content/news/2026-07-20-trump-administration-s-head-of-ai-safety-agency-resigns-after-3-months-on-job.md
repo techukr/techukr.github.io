@@ -1,0 +1,13 @@
+---
+title: "Trump administration's head of AI safety agency resigns after 3 months on job"
+date: 2026-07-20T20:26:20+00:00
+external_url: "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "politics"
+  - "technology"
+time_ago: "21m"
+article_hash: "f89ba4cbc172"
+---
