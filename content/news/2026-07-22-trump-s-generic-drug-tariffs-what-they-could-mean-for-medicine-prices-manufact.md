@@ -9,6 +9,6 @@ categories:
   - "politics"
   - "science"
   - "health"
-time_ago: "1h"
+time_ago: "4h"
 article_hash: "2e3eaeb5ea1f"
 ---
