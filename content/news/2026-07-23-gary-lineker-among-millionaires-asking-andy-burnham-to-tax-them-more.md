@@ -1,0 +1,12 @@
+---
+title: "Gary Lineker among millionaires asking Andy Burnham to tax them more"
+date: 2026-07-23T10:43:06+00:00
+external_url: "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "41m"
+article_hash: "772845796d74"
+---
