@@ -9,6 +9,6 @@ categories:
   - "uk"
   - "sport"
   - "health"
-time_ago: "44m"
+time_ago: "7h"
 article_hash: "87ad2c9eae21"
 ---
