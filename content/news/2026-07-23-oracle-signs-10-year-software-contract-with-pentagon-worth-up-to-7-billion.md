@@ -1,12 +1,12 @@
 ---
 title: "Oracle signs 10-year software contract with Pentagon worth up to $7 billion"
-date: 2026-07-23T21:26:21+00:00
+date: 2026-07-23T21:56:31+00:00
 external_url: "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html"
 source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
 source_name: "CNBC"
 source_slug: "cnbc"
 categories:
   - "technology"
-time_ago: "8m"
+time_ago: "15h"
 article_hash: "3c186f0d653e"
 ---
