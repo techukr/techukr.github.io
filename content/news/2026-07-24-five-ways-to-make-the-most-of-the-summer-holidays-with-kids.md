@@ -1,0 +1,12 @@
+---
+title: "Five ways to make the most of the summer holidays with kids"
+date: 2026-07-24T23:29:12+00:00
+external_url: "https://www.bbc.co.uk/news/articles/c5y65z47xwzo?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "3m"
+article_hash: "e3d639524d19"
+---
