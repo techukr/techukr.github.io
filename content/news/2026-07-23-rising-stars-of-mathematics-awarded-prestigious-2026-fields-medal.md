@@ -8,6 +8,6 @@ source_slug: "nature"
 categories:
   - "world"
   - "entertainment"
-time_ago: "15h"
+time_ago: "1d"
 article_hash: "94884b988813"
 ---
