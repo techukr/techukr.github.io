@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "world"
   - "entertainment"
-time_ago: "44m"
+time_ago: "1d"
 article_hash: "e4fbbd953332"
 ---
