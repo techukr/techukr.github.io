@@ -8,6 +8,6 @@ source_slug: "bbc-world"
 categories:
   - "business"
   - "technology"
-time_ago: "1h"
+time_ago: "10h"
 article_hash: "0e62b02565df"
 ---
