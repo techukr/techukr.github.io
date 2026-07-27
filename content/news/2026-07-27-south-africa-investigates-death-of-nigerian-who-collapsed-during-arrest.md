@@ -8,6 +8,6 @@ source_slug: "bbc-world"
 categories:
   - "world"
   - "health"
-time_ago: "2h"
+time_ago: "8h"
 article_hash: "0456e979a0e4"
 ---
