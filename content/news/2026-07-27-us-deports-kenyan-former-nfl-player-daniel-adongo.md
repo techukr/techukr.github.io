@@ -8,6 +8,6 @@ source_slug: "bbc-world"
 categories:
   - "world"
   - "sport"
-time_ago: "55m"
+time_ago: "3h"
 article_hash: "e4cdb16adf26"
 ---
