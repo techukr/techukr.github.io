@@ -9,6 +9,6 @@ categories:
   - "world"
   - "technology"
   - "science"
-time_ago: "2h"
+time_ago: "3d"
 article_hash: "f65c06ddbd39"
 ---
