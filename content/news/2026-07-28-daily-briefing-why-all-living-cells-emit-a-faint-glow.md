@@ -1,12 +1,12 @@
 ---
-title: "Values in science go beyond politics"
+title: "Daily briefing: Why all living cells emit a faint glow"
 date: 2026-07-28T00:00:00+00:00
-external_url: "https://www.nature.com/articles/d41586-026-02346-2"
+external_url: "https://www.nature.com/articles/d41586-026-02363-1"
 source: "https://www.nature.com/nature.rss"
 source_name: "Nature"
 source_slug: "nature"
 categories:
   - "general"
 time_ago: "1d"
-article_hash: "6abdea30a13c"
+article_hash: "bba42a48fd3f"
 ---
