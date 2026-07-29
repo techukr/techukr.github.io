@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "science"
   - "environment"
-time_ago: "1h"
+time_ago: "3h"
 article_hash: "5602b98d00bd"
 ---
