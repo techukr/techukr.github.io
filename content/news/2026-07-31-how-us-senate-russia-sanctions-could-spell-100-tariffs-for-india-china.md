@@ -8,6 +8,6 @@ source_slug: "al-jazeera"
 categories:
   - "world"
   - "politics"
-time_ago: "1h"
+time_ago: "4h"
 article_hash: "a372af689933"
 ---
