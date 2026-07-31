@@ -1,0 +1,13 @@
+---
+title: "Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction"
+date: 2026-07-31T14:36:49+00:00
+external_url: "https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "uk"
+  - "sport"
+time_ago: "1h"
+article_hash: "14a6eee9a46c"
+---
