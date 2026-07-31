@@ -1,0 +1,12 @@
+---
+title: "Elderly victim of 'cruel' carer can't be left alone after being 'traumatised'"
+date: 2026-07-31T05:13:24+00:00
+external_url: "https://www.bbc.co.uk/news/articles/c75gr627qg9o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "3h"
+article_hash: "42bf276337c4"
+---
