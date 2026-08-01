@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "business"
   - "technology"
-time_ago: "17h"
+time_ago: "1d"
 article_hash: "880fae41618f"
 ---
