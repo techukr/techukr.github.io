@@ -8,6 +8,6 @@ source_slug: "cnbc"
 categories:
   - "business"
   - "sport"
-time_ago: "49m"
+time_ago: "1d"
 article_hash: "9852040a0c29"
 ---
