@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "business"
   - "technology"
-time_ago: "1h"
+time_ago: "3d"
 article_hash: "42d2a1693856"
 ---
