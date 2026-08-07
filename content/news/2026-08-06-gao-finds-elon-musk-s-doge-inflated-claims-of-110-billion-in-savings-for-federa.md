@@ -8,6 +8,6 @@ source_slug: "cnbc"
 categories:
   - "politics"
   - "sport"
-time_ago: "2h"
+time_ago: "5h"
 article_hash: "35899bc5379b"
 ---
