@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "politics"
   - "environment"
-time_ago: "1h"
+time_ago: "8h"
 article_hash: "430943380f06"
 ---
