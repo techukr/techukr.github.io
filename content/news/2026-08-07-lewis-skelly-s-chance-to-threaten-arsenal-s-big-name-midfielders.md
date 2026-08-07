@@ -1,0 +1,12 @@
+---
+title: "Lewis-Skelly's chance to threaten Arsenal's big-name midfielders"
+date: 2026-08-07T10:07:49+00:00
+external_url: "https://www.bbc.co.uk/sport/football/articles/c15171py593o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "46m"
+article_hash: "337bf0bf4696"
+---
