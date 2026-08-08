@@ -1,12 +1,12 @@
 ---
-title: "Fifa president Gianni Infantino denies claims Uefa paid off alleged ‘lover’"
-date: 2026-08-08T09:27:46+00:00
-external_url: "https://www.theguardian.com/football/2026/aug/08/fifa-gianni-infantino-uefa-employee-departure-payment-allegations-denial"
-source: "https://www.theguardian.com/uk/rss"
-source_name: "The Guardian"
-source_slug: "the-guardian"
+title: "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover"
+date: 2026-08-08T13:59:21+00:00
+external_url: "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
 categories:
   - "politics"
-time_ago: "11m"
-article_hash: "15d624f4789d"
+time_ago: "34m"
+article_hash: "5151fca5db0e"
 ---
