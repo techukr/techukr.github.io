@@ -8,6 +8,6 @@ source_slug: "al-jazeera"
 categories:
   - "politics"
   - "health"
-time_ago: "1h"
+time_ago: "5h"
 article_hash: "0ae420481788"
 ---
