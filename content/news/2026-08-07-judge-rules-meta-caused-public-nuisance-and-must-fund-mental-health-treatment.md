@@ -8,6 +8,6 @@ source_slug: "ars-technica"
 categories:
   - "technology"
   - "health"
-time_ago: "2h"
+time_ago: "1d"
 article_hash: "0cef10d87b25"
 ---
