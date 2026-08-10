@@ -7,6 +7,6 @@ source_name: "Al Jazeera"
 source_slug: "al-jazeera"
 categories:
   - "environment"
-time_ago: "52m"
+time_ago: "11h"
 article_hash: "ca34202455f2"
 ---
