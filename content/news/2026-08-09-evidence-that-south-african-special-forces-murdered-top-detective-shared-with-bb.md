@@ -8,6 +8,6 @@ source_slug: "bbc-news"
 categories:
   - "uk"
   - "world"
-time_ago: "2h"
+time_ago: "15h"
 article_hash: "f1dc61f75b67"
 ---
