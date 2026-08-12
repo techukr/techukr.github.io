@@ -7,6 +7,6 @@ source_name: "Sky News"
 source_slug: "sky-news"
 categories:
   - "politics"
-time_ago: "2h"
+time_ago: "8h"
 article_hash: "bc17e3673136"
 ---
