@@ -7,6 +7,6 @@ source_name: "Nature"
 source_slug: "nature"
 categories:
   - "health"
-time_ago: "11h"
+time_ago: "2d"
 article_hash: "7f3104f763ab"
 ---
