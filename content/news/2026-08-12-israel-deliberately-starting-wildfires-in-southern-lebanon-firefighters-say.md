@@ -7,6 +7,6 @@ source_name: "The Guardian"
 source_slug: "the-guardian"
 categories:
   - "environment"
-time_ago: "1h"
+time_ago: "3h"
 article_hash: "a653089d4453"
 ---
