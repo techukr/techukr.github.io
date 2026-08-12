@@ -8,6 +8,6 @@ source_slug: "sky-news"
 categories:
   - "world"
   - "politics"
-time_ago: "5h"
+time_ago: "6h"
 article_hash: "8230db716755"
 ---
