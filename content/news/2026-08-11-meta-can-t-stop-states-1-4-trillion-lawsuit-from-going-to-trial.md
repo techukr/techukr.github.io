@@ -7,6 +7,6 @@ source_name: "Ars Technica"
 source_slug: "ars-technica"
 categories:
   - "technology"
-time_ago: "21m"
+time_ago: "21h"
 article_hash: "d269adfc80b1"
 ---
