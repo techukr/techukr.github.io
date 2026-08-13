@@ -8,6 +8,6 @@ source_slug: "techcrunch"
 categories:
   - "entertainment"
   - "environment"
-time_ago: "47m"
+time_ago: "20h"
 article_hash: "f04588bde593"
 ---
