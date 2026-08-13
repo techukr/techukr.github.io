@@ -8,6 +8,6 @@ source_slug: "cnbc"
 categories:
   - "technology"
   - "science"
-time_ago: "1h"
+time_ago: "4h"
 article_hash: "332e82563831"
 ---
