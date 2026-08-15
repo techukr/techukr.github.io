@@ -1,0 +1,12 @@
+---
+title: "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle"
+date: 2026-08-15T13:00:01+00:00
+external_url: "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "politics"
+time_ago: "1h"
+article_hash: "4ec8c770124b"
+---
