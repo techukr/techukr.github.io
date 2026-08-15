@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "uk"
   - "technology"
-time_ago: "30m"
+time_ago: "1h"
 article_hash: "b6d60e3fe30e"
 ---
