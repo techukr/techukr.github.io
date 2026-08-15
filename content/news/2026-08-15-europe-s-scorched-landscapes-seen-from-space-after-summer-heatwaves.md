@@ -1,13 +1,13 @@
 ---
 title: "Europe's scorched landscapes seen from space after summer heatwaves"
-date: 2026-08-15T05:01:13+00:00
-external_url: "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+date: 2026-08-15T17:21:26+00:00
+external_url: "https://www.bbc.com/news/articles/c4gxy0wqqd9o"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
 categories:
   - "world"
   - "science"
-time_ago: "25m"
-article_hash: "b2b54047d133"
+time_ago: "1h"
+article_hash: "73d592e30758"
 ---
