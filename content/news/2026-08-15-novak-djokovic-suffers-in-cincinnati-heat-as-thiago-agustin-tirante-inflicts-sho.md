@@ -8,6 +8,6 @@ source_slug: "the-guardian"
 categories:
   - "world"
   - "sport"
-time_ago: "46m"
+time_ago: "9h"
 article_hash: "fbe01f39aad4"
 ---
