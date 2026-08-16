@@ -1,0 +1,12 @@
+---
+title: "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa"
+date: 2026-08-16T09:48:42+00:00
+external_url: "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "36m"
+article_hash: "75ed983fed20"
+---
