@@ -8,6 +8,6 @@ source_slug: "bbc-world"
 categories:
   - "world"
   - "entertainment"
-time_ago: "1h"
+time_ago: "10h"
 article_hash: "2932accf2aa5"
 ---
