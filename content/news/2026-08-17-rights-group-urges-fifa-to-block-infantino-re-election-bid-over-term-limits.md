@@ -1,0 +1,12 @@
+---
+title: "Rights group urges FIFA to block Infantino re-election bid over term limits"
+date: 2026-08-17T15:21:47+00:00
+external_url: "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "politics"
+time_ago: "31m"
+article_hash: "996b405f3361"
+---
