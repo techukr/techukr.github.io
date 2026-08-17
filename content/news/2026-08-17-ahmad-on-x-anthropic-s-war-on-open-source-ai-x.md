@@ -1,0 +1,12 @@
+---
+title: "Ahmad on X: 'Anthropic's War on open source AI' / X"
+date: 2026-08-17T15:24:34+00:00
+external_url: "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
+source: "https://hnrss.org/frontpage"
+source_name: "Hacker News"
+source_slug: "hacker-news"
+categories:
+  - "general"
+time_ago: "2h"
+article_hash: "12fa0ec462e7"
+---
