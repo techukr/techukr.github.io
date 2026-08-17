@@ -1,0 +1,12 @@
+---
+title: "What will TV look like in three years? Media insiders share their predictions"
+date: 2026-08-17T11:00:01+00:00
+external_url: "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html"
+source: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+source_name: "CNBC"
+source_slug: "cnbc"
+categories:
+  - "general"
+time_ago: "28m"
+article_hash: "a4eec19b091f"
+---
