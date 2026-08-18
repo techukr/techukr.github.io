@@ -1,12 +1,12 @@
 ---
 title: "One dead and hundreds ill in UK salmonella outbreak"
-date: 2026-08-18T09:52:00+00:00
-external_url: "https://news.sky.com/story/one-dead-and-hundreds-ill-after-uk-salmonella-outbreak-13574292"
-source: "https://feeds.skynews.com/feeds/rss/home.xml"
-source_name: "Sky News"
-source_slug: "sky-news"
+date: 2026-08-18T12:28:29+00:00
+external_url: "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
 categories:
   - "uk"
-time_ago: "38m"
-article_hash: "034306da11b6"
+time_ago: "22m"
+article_hash: "9c34bed5f01b"
 ---
