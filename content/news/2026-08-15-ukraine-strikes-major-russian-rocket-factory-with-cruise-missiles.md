@@ -9,6 +9,6 @@ categories:
   - "uk"
   - "world"
   - "entertainment"
-time_ago: "1d"
+time_ago: "2d"
 article_hash: "031bef8b9f41"
 ---
