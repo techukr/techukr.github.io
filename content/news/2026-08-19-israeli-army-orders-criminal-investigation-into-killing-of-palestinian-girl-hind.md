@@ -1,12 +1,12 @@
 ---
-title: "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza"
-date: 2026-08-19T12:41:46+00:00
-external_url: "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
-source: "http://feeds.bbci.co.uk/news/rss.xml"
-source_name: "BBC News"
-source_slug: "bbc-news"
+title: "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab"
+date: 2026-08-19T11:19:00+00:00
+external_url: "https://news.sky.com/story/israeli-army-orders-criminal-investigation-into-killing-of-palestinian-girl-hind-rajab-13574680"
+source: "https://feeds.skynews.com/feeds/rss/home.xml"
+source_name: "Sky News"
+source_slug: "sky-news"
 categories:
   - "general"
-time_ago: "9m"
-article_hash: "b65b22294ddb"
+time_ago: "2h"
+article_hash: "9c7d0055ec68"
 ---
