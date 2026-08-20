@@ -1,0 +1,13 @@
+---
+title: "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies"
+date: 2026-08-20T05:06:23+00:00
+external_url: "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+  - "politics"
+time_ago: "26m"
+article_hash: "049240f8180b"
+---
