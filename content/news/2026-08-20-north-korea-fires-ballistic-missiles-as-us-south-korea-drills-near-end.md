@@ -1,0 +1,12 @@
+---
+title: "North Korea fires ballistic missiles as US-South Korea drills near end"
+date: 2026-08-20T17:00:12+00:00
+external_url: "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "31m"
+article_hash: "51575c36cd23"
+---
