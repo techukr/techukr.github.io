@@ -7,6 +7,6 @@ source_name: "NASA"
 source_slug: "nasa"
 categories:
   - "business"
-time_ago: "3h"
+time_ago: "18h"
 article_hash: "3808c7b3f937"
 ---
