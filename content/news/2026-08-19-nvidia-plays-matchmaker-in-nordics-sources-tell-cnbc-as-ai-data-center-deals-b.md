@@ -8,6 +8,6 @@ source_slug: "cnbc"
 categories:
   - "technology"
   - "sport"
-time_ago: "10m"
+time_ago: "10h"
 article_hash: "2d39164d9fe3"
 ---
