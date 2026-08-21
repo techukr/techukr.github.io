@@ -8,6 +8,6 @@ source_slug: "al-jazeera"
 categories:
   - "uk"
   - "environment"
-time_ago: "46m"
+time_ago: "1h"
 article_hash: "73965d132a51"
 ---
