@@ -1,0 +1,12 @@
+---
+title: "Pegula's three-hour epic sets up all‑US final"
+date: 2026-08-23T07:27:28+00:00
+external_url: "https://www.bbc.co.uk/sport/tennis/articles/cr595z6jqjdo?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/sport/rss.xml"
+source_name: "BBC Sport"
+source_slug: "bbc-sport"
+categories:
+  - "world"
+time_ago: "7m"
+article_hash: "8a8c368766c8"
+---
