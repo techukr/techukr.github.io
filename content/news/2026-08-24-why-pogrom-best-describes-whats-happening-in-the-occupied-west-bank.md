@@ -7,6 +7,6 @@ source_name: "Al Jazeera"
 source_slug: "al-jazeera"
 categories:
   - "business"
-time_ago: "21m"
+time_ago: "3h"
 article_hash: "0ed30df6678c"
 ---
