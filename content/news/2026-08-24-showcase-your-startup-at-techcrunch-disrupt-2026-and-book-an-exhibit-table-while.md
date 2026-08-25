@@ -9,6 +9,6 @@ categories:
   - "business"
   - "technology"
   - "science"
-time_ago: "16m"
+time_ago: "19h"
 article_hash: "d14fdbf4a30e"
 ---
