@@ -1,0 +1,12 @@
+---
+title: "Tornado tears through French village leaving dozens injured"
+date: 2026-08-25T01:27:21+00:00
+external_url: "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "3h"
+article_hash: "3fa9bf04afc4"
+---
