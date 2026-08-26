@@ -1,0 +1,12 @@
+---
+title: "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam"
+date: 2026-08-26T08:04:13+00:00
+external_url: "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "42m"
+article_hash: "01130480455f"
+---
