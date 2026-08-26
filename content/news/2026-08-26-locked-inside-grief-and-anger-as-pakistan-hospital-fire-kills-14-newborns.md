@@ -7,6 +7,6 @@ source_name: "Al Jazeera"
 source_slug: "al-jazeera"
 categories:
   - "health"
-time_ago: "12m"
+time_ago: "2h"
 article_hash: "322b5447b010"
 ---
