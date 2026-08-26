@@ -1,0 +1,12 @@
+---
+title: "Bodies of missing people found in Korea becomes national scandal"
+date: 2026-08-26T14:00:43+00:00
+external_url: "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "general"
+time_ago: "50m"
+article_hash: "ebd770dfb050"
+---
