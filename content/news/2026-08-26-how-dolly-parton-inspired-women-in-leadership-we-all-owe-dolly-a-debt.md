@@ -7,6 +7,6 @@ source_name: "CNBC"
 source_slug: "cnbc"
 categories:
   - "general"
-time_ago: "10m"
+time_ago: "6h"
 article_hash: "b749efd44f9f"
 ---
