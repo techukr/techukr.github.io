@@ -1,0 +1,12 @@
+---
+title: "Hull continue perfect start with away win at Coventry"
+date: 2026-08-29T19:12:12+00:00
+external_url: "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/sport/rss.xml"
+source_name: "BBC Sport"
+source_slug: "bbc-sport"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "a3bab12cb4e6"
+---
