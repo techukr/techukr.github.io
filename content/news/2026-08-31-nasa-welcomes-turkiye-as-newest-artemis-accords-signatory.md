@@ -7,6 +7,6 @@ source_name: "NASA"
 source_slug: "nasa"
 categories:
   - "science"
-time_ago: "10m"
+time_ago: "1d"
 article_hash: "f6fb5a516e0e"
 ---
