@@ -7,6 +7,6 @@ source_name: "The Guardian"
 source_slug: "the-guardian"
 categories:
   - "technology"
-time_ago: "2h"
+time_ago: "19h"
 article_hash: "cdab8cb99213"
 ---
