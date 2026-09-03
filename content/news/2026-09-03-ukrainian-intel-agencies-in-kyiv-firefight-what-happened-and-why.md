@@ -1,0 +1,12 @@
+---
+title: "Ukrainian intel agencies in Kyiv firefight: What happened and why?"
+date: 2026-09-03T13:54:02+00:00
+external_url: "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "uk"
+time_ago: "2h"
+article_hash: "b19df367931a"
+---
