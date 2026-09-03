@@ -8,6 +8,6 @@ source_slug: "sky-news"
 categories:
   - "uk"
   - "world"
-time_ago: "1h"
+time_ago: "9h"
 article_hash: "99409afe5868"
 ---
