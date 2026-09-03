@@ -1,0 +1,12 @@
+---
+title: "Watch: Gloria Steinem dedicated her life to fight for women's equality"
+date: 2026-09-03T17:35:31+00:00
+external_url: "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss"
+source: "http://feeds.bbci.co.uk/news/rss.xml"
+source_name: "BBC News"
+source_slug: "bbc-news"
+categories:
+  - "general"
+time_ago: "1h"
+article_hash: "9ceb1569045e"
+---
