@@ -1,0 +1,13 @@
+---
+title: "India’s Smriti Mandhana becomes top run-scorer in women’s cricket"
+date: 2026-09-04T12:03:19+00:00
+external_url: "https://www.aljazeera.com/sports/2026/9/4/indias-smriti-mandhana-becomes-top-run-scorer-in-womens-cricket?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "world"
+  - "sport"
+time_ago: "1h"
+article_hash: "255b94b13834"
+---
