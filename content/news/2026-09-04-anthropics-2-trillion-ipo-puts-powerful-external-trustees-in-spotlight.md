@@ -7,6 +7,6 @@ source_name: "Ars Technica"
 source_slug: "ars-technica"
 categories:
   - "business"
-time_ago: "35m"
+time_ago: "3h"
 article_hash: "3055f9c8a822"
 ---
