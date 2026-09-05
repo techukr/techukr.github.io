@@ -1,0 +1,12 @@
+---
+title: "Have scientists discovered a dark matter particle?"
+date: 2026-09-05T07:13:23+00:00
+external_url: "https://www.aljazeera.com/features/2026/9/5/have-scientists-discovered-a-dark-matter-particle?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "science"
+time_ago: "56m"
+article_hash: "d56898134255"
+---
