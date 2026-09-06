@@ -1,0 +1,12 @@
+---
+title: "Embattled FIFA President Gianni Infantino to stand for re-election"
+date: 2026-09-06T15:07:18+00:00
+external_url: "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss"
+source: "https://www.aljazeera.com/xml/rss/all.xml"
+source_name: "Al Jazeera"
+source_slug: "al-jazeera"
+categories:
+  - "politics"
+time_ago: "32m"
+article_hash: "35851c60a8d8"
+---
