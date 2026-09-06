@@ -8,6 +8,6 @@ source_slug: "sky-news"
 categories:
   - "world"
   - "environment"
-time_ago: "4h"
+time_ago: "9h"
 article_hash: "49e0deb3abb3"
 ---
